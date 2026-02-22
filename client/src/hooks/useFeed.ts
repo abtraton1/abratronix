@@ -1,7 +1,8 @@
 import { useState, useEffect, useMemo } from "react";
 import type { FeedData, FeedItem, SourceType } from "@/lib/types";
 
-const FEED_URL = "/data/feed.json";
+const BASE = import.meta.env.BASE_URL?.replace(/\/$/, "") ?? "";
+const FEED_URL = `${BASE}/data/feed.json`;
 const POLL_INTERVAL_MS = 5 * 60 * 1000; // 5 minutes
 
 export function useFeed() {

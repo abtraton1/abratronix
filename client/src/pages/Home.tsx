@@ -15,6 +15,8 @@ import { SourceIcon } from "@/components/SourceIcon";
 import type { SourceType } from "@/lib/types";
 import { SOURCE_CONFIG } from "@/lib/types";
 
+const FEED_JSON_URL = `${(import.meta.env.BASE_URL ?? "/").replace(/\/$/, "")}/data/feed.json`;
+
 const SOURCE_FILTERS: { value: SourceType | "all"; label: string }[] = [
   { value: "all", label: "All Sources" },
   { value: "hackernews", label: "Hacker News" },
@@ -103,7 +105,7 @@ export default function Home() {
             {/* Links */}
             <div className="flex items-center gap-1">
               <a
-                href="/data/feed.json"
+                href={FEED_JSON_URL}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-sm hover:bg-muted transition-colors text-muted-foreground hover:text-foreground"
@@ -386,7 +388,7 @@ export default function Home() {
                 multi-signal traction score — not just recency.
               </p>
               <a
-                href="/data/feed.json"
+                href={FEED_JSON_URL}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 mt-2 text-xs text-primary hover:underline"
@@ -411,7 +413,7 @@ export default function Home() {
               <span className="font-mono-data">
                 {data ? `${data.total_items} items · Updated ${formatRelativeTime(data.generated_at)}` : "Loading..."}
               </span>
-              <a href="/data/feed.json" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
+              <a href={FEED_JSON_URL} target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
                 JSON Feed
               </a>
             </div>
