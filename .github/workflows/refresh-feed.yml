@@ -10,19 +10,10 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
 jobs:
   refresh-and-deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -68,16 +59,18 @@ jobs:
         run: pnpm install
 
       - name: Build for GitHub Pages
+        env:
+          VITE_BASE_PATH: /abratronix/
         run: pnpm build
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist/public
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deploy to gh-pages branch
+        run: |
+          git config --global user.name "Abratronix Bot"
+          git config --global user.email "bot@abratronix.local"
+          cp -r dist/public /tmp/gh-pages-dist
+          git fetch origin gh-pages
+          git checkout gh-pages
+          cp -r /tmp/gh-pages-dist/. .
+          git add -A
+          git diff --staged --quiet || git commit -m "deploy: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push origin gh-pages
