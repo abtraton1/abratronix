@@ -227,7 +227,7 @@ export default function Home() {
                 <span>
                   {searchQuery || activeSource !== "all"
                     ? `${total} results`
-                    : `${data.total_items} items · sorted by traction score`}
+                    : `${data.total_items} items · sorted by newest`}
                 </span>
               </div>
             )}

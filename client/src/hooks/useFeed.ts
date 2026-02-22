@@ -73,6 +73,8 @@ export function useFilteredFeed(
       );
     }
 
+    // Sort newest first
+    items = [...items].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
     const total = items.length;
     const paginated = items.slice(0, page * pageSize);
     const hasMore = paginated.length < total;
