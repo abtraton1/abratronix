@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-22T21:44:40.306971+00:00",
+  "generated_at": "2026-04-23T01:58:19.250404+00:00",
   "total_items": 200,
   "sources": {
-    "hackernews": 98,
+    "hackernews": 60,
     "youtube": 40,
-    "github": 42,
-    "news": 20
+    "github": 44,
+    "news": 56
   },
   "traction_stats": {
-    "max_score": 84.48,
-    "p90_score": 73.28,
-    "p75_score": 65.23
+    "max_score": 82.99,
+    "p90_score": 71.5,
+    "p75_score": 62.4
   },
   "items": [
     {
@@ -22,11 +22,11 @@
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
       "author": "Kaibeezy",
       "date": "2026-04-22T16:29:25+00:00",
-      "traction_score": 84.48,
+      "traction_score": 82.99,
       "meta": {
         "hn_id": 47865868,
-        "points": 972,
-        "num_comments": 333,
+        "points": 1323,
+        "num_comments": 464,
         "story_type": "story"
       }
     },
@@ -39,12 +39,182 @@
       "url": "https://qwen.ai/blog?id=qwen3.6-27b",
       "author": "mfiguiere",
       "date": "2026-04-22T13:19:58+00:00",
-      "traction_score": 78.0,
+      "traction_score": 76.54,
       "meta": {
         "hn_id": 47863217,
-        "points": 546,
-        "num_comments": 268,
+        "points": 694,
+        "num_comments": 339,
         "story_type": "story"
+      }
+    },
+    {
+      "id": "1d8e9c59e651",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "summary": "",
+      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "author": "cdrnsf",
+      "date": "2026-04-22T20:27:31+00:00",
+      "traction_score": 75.47,
+      "meta": {
+        "hn_id": 47868867,
+        "points": 360,
+        "num_comments": 93,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "a1d96e52891e",
+      "source": "youtube",
+      "type": "video",
+      "title": "How we treated AI in 2023 vs 2026",
+      "summary": "GamerSupps - https://gamersupps.gg/jaden10 (10% OFF) Patreon - https://www.patreon.com/jadenwilliams Merch ...",
+      "url": "https://www.youtube.com/watch?v=Npsg0UvEGIw",
+      "author": "Jaden Williams",
+      "date": "2026-04-23T01:58:08.853905+00:00",
+      "traction_score": 74.75,
+      "meta": {
+        "video_id": "Npsg0UvEGIw",
+        "thumbnail": "https://i.ytimg.com/vi/Npsg0UvEGIw/mqdefault.jpg",
+        "duration": "2:11",
+        "view_count": 4069050
+      }
+    },
+    {
+      "id": "cc39e96c0692",
+      "source": "youtube",
+      "type": "video",
+      "title": "Rust in 100 Seconds",
+      "summary": "Rust is a memory-safe compiled programming language for building high-performance systems. It has the simplicity of high-level ...",
+      "url": "https://www.youtube.com/watch?v=5C_HPTJg5ek",
+      "author": "Fireship",
+      "date": "2026-04-23T01:58:16.368374+00:00",
+      "traction_score": 74.75,
+      "meta": {
+        "video_id": "5C_HPTJg5ek",
+        "thumbnail": "https://i.ytimg.com/vi/5C_HPTJg5ek/mqdefault.jpg",
+        "duration": "2:29",
+        "view_count": 2398010
+      }
+    },
+    {
+      "id": "c05ab6f1280c",
+      "source": "youtube",
+      "type": "video",
+      "title": "Lua in 100 Seconds",
+      "summary": "Lua is a lightweight dynamic scripting language often embedded into other programs like World of Warcraft and Roblox.",
+      "url": "https://www.youtube.com/watch?v=jUuqBZwwkQw",
+      "author": "Fireship",
+      "date": "2026-04-23T01:58:16.368416+00:00",
+      "traction_score": 74.75,
+      "meta": {
+        "video_id": "jUuqBZwwkQw",
+        "thumbnail": "https://i.ytimg.com/vi/jUuqBZwwkQw/mqdefault.jpg",
+        "duration": "2:24",
+        "view_count": 2753177
+      }
+    },
+    {
+      "id": "5c7edcb30615",
+      "source": "youtube",
+      "type": "video",
+      "title": "Go in 100 Seconds",
+      "summary": "Learn the basics of the Go Programming Language. Go (not Golang) was developed at Google as a modern version of C for ...",
+      "url": "https://www.youtube.com/watch?v=446E-r0rXHI",
+      "author": "Fireship",
+      "date": "2026-04-23T01:58:16.368438+00:00",
+      "traction_score": 74.75,
+      "meta": {
+        "video_id": "446E-r0rXHI",
+        "thumbnail": "https://i.ytimg.com/vi/446E-r0rXHI/mqdefault.jpg",
+        "duration": "2:30",
+        "view_count": 2217707
+      }
+    },
+    {
+      "id": "4937245e5554",
+      "source": "youtube",
+      "type": "video",
+      "title": "C in 100 Seconds",
+      "summary": "The C Programming Language is quite possibly the most influential language of all time. It powers OS kernels like Linux, Windows ...",
+      "url": "https://www.youtube.com/watch?v=U3aXWizDbQ4",
+      "author": "Fireship",
+      "date": "2026-04-23T01:58:16.368446+00:00",
+      "traction_score": 74.75,
+      "meta": {
+        "video_id": "U3aXWizDbQ4",
+        "thumbnail": "https://i.ytimg.com/vi/U3aXWizDbQ4/mqdefault.jpg",
+        "duration": "2:25",
+        "view_count": 3731384
+      }
+    },
+    {
+      "id": "badf159a23dd",
+      "source": "youtube",
+      "type": "video",
+      "title": "I tried 10 code editors",
+      "summary": "The top 10 code editors for programmers in 2022. We start by exploring simple text editors like vim, then show the evolution to ...",
+      "url": "https://www.youtube.com/watch?v=8PhdfcX9tG0",
+      "author": "Fireship",
+      "date": "2026-04-23T01:58:16.368454+00:00",
+      "traction_score": 74.75,
+      "meta": {
+        "video_id": "8PhdfcX9tG0",
+        "thumbnail": "https://i.ytimg.com/vi/8PhdfcX9tG0/mqdefault.jpg",
+        "duration": "10:28",
+        "view_count": 3774412
+      }
+    },
+    {
+      "id": "a28d53381ef0",
+      "source": "youtube",
+      "type": "video",
+      "title": "Python in 100 Seconds",
+      "summary": "Python is arguably the world's most popular programming language. It is easy to learn, yet suitable in professional software like ...",
+      "url": "https://www.youtube.com/watch?v=x7X9w_GIm1s",
+      "author": "Fireship",
+      "date": "2026-04-23T01:58:16.368462+00:00",
+      "traction_score": 74.75,
+      "meta": {
+        "video_id": "x7X9w_GIm1s",
+        "thumbnail": "https://i.ytimg.com/vi/x7X9w_GIm1s/mqdefault.jpg",
+        "duration": "2:24",
+        "view_count": 3033268
+      }
+    },
+    {
+      "id": "e71b389a9e5c",
+      "source": "hackernews",
+      "type": "story",
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "summary": "",
+      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "author": "danpinto",
+      "date": "2026-04-22T17:35:03+00:00",
+      "traction_score": 74.46,
+      "meta": {
+        "hn_id": 47866697,
+        "points": 435,
+        "num_comments": 123,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "222e8b0d0239",
+      "source": "youtube",
+      "type": "video",
+      "title": "7 new open source AI tools you need right now…",
+      "summary": "... https://www.recall.ai/fireship gets you $100 in free credits In today's we'll look at 7 open source AI projects you've never heard of ...",
+      "url": "https://www.youtube.com/watch?v=Xn-gtHDsaPY",
+      "author": "Fireship",
+      "date": "2026-04-23T01:58:14.407954+00:00",
+      "traction_score": 74.12,
+      "meta": {
+        "video_id": "Xn-gtHDsaPY",
+        "thumbnail": "https://i.ytimg.com/vi/Xn-gtHDsaPY/mqdefault.jpg",
+        "duration": "6:15",
+        "view_count": 804625
       }
     },
     {
@@ -56,28 +226,11 @@
       "url": "https://social.hails.org/@hailey/116446826733136456",
       "author": "sohkamyung",
       "date": "2026-04-22T09:52:52+00:00",
-      "traction_score": 76.09,
+      "traction_score": 73.94,
       "meta": {
         "hn_id": 47861270,
-        "points": 822,
-        "num_comments": 193,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "06676c5cf683",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Scores decline again for 13-year-old students in reading and mathematics",
-      "summary": "",
-      "url": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
-      "author": "u1hcw9nx",
-      "date": "2026-04-22T18:57:20+00:00",
-      "traction_score": 75.92,
-      "meta": {
-        "hn_id": 47867755,
-        "points": 138,
-        "num_comments": 165,
+        "points": 889,
+        "num_comments": 207,
         "story_type": "story"
       }
     },
@@ -90,12 +243,63 @@
       "url": "https://nrehiew.github.io/blog/minimal_editing/",
       "author": "pella",
       "date": "2026-04-22T17:51:17+00:00",
-      "traction_score": 75.71,
+      "traction_score": 73.88,
       "meta": {
         "hn_id": 47866913,
-        "points": 225,
-        "num_comments": 114,
+        "points": 290,
+        "num_comments": 172,
         "story_type": "story"
+      }
+    },
+    {
+      "id": "06676c5cf683",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Scores decline again for 13-year-old students in reading and mathematics",
+      "summary": "",
+      "url": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+      "author": "u1hcw9nx",
+      "date": "2026-04-22T18:57:20+00:00",
+      "traction_score": 73.84,
+      "meta": {
+        "hn_id": 47867755,
+        "points": 183,
+        "num_comments": 242,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "e9579ca571e4",
+      "source": "youtube",
+      "type": "video",
+      "title": "When open-sourcing your code goes wrong...",
+      "summary": "It's free forever for any open source project. Everything you use on the internet today is built on the shoulders of OSS - but not ...",
+      "url": "https://www.youtube.com/watch?v=wzzh7Not8XE",
+      "author": "Fireship",
+      "date": "2026-04-23T01:58:14.407945+00:00",
+      "traction_score": 73.79,
+      "meta": {
+        "video_id": "wzzh7Not8XE",
+        "thumbnail": "https://i.ytimg.com/vi/wzzh7Not8XE/mqdefault.jpg",
+        "duration": "6:39",
+        "view_count": 717908
+      }
+    },
+    {
+      "id": "daaa13b4cec0",
+      "source": "youtube",
+      "type": "video",
+      "title": "Do THIS instead of watching endless tutorials - how I’d learn Python FAST…",
+      "summary": "These are two of the best beginner-friendly Python resources I recommend: Python Programming Fundamentals (Datacamp) ...",
+      "url": "https://www.youtube.com/watch?v=mB0EBW-vDSQ",
+      "author": "Tech With Tim",
+      "date": "2026-04-23T01:58:16.368428+00:00",
+      "traction_score": 73.17,
+      "meta": {
+        "video_id": "mB0EBW-vDSQ",
+        "thumbnail": "https://i.ytimg.com/vi/mB0EBW-vDSQ/mqdefault.jpg",
+        "duration": "10:34",
+        "view_count": 579513
       }
     },
     {
@@ -107,283 +311,11 @@
       "url": "https://cli.github.com/telemetry",
       "author": "ingve",
       "date": "2026-04-22T11:58:58+00:00",
-      "traction_score": 75.05,
+      "traction_score": 72.78,
       "meta": {
         "hn_id": 47862331,
-        "points": 362,
-        "num_comments": 279,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "e917c0646bd5",
-      "source": "youtube",
-      "type": "video",
-      "title": "Machine Learning for Everybody – Full Course",
-      "summary": "Learn Machine Learning in a way that is accessible to absolute beginners. You will learn the basics of Machine Learning and how ...",
-      "url": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
-      "author": "freeCodeCamp.org and Kylie Ying",
-      "date": "2026-04-22T21:44:33.572315+00:00",
-      "traction_score": 74.75,
-      "meta": {
-        "video_id": "i_LwzRVP7bg",
-        "thumbnail": "https://i.ytimg.com/vi/i_LwzRVP7bg/mqdefault.jpg",
-        "duration": "3:53:53",
-        "view_count": 9839611
-      }
-    },
-    {
-      "id": "cc39e96c0692",
-      "source": "youtube",
-      "type": "video",
-      "title": "Rust in 100 Seconds",
-      "summary": "Rust is a memory-safe compiled programming language for building high-performance systems. It has the simplicity of high-level ...",
-      "url": "https://www.youtube.com/watch?v=5C_HPTJg5ek",
-      "author": "Fireship",
-      "date": "2026-04-22T21:44:37.359438+00:00",
-      "traction_score": 74.75,
-      "meta": {
-        "video_id": "5C_HPTJg5ek",
-        "thumbnail": "https://i.ytimg.com/vi/5C_HPTJg5ek/mqdefault.jpg",
-        "duration": "2:29",
-        "view_count": 2397899
-      }
-    },
-    {
-      "id": "5c7edcb30615",
-      "source": "youtube",
-      "type": "video",
-      "title": "Go in 100 Seconds",
-      "summary": "Learn the basics of the Go Programming Language. Go (not Golang) was developed at Google as a modern version of C for ...",
-      "url": "https://www.youtube.com/watch?v=446E-r0rXHI",
-      "author": "Fireship",
-      "date": "2026-04-22T21:44:37.359488+00:00",
-      "traction_score": 74.75,
-      "meta": {
-        "video_id": "446E-r0rXHI",
-        "thumbnail": "https://i.ytimg.com/vi/446E-r0rXHI/mqdefault.jpg",
-        "duration": "2:30",
-        "view_count": 2217643
-      }
-    },
-    {
-      "id": "a439cc7bd5b1",
-      "source": "youtube",
-      "type": "video",
-      "title": "How to Start Coding | Programming for Beginners | Learn Coding | Intellipaat",
-      "summary": "Intellipaat Python course: https://intellipaat.com/python-for-data-science-training/ Intellipaat Programming courses: ...",
-      "url": "https://www.youtube.com/watch?v=HIj8wU_rGIU",
-      "author": "Intellipaat",
-      "date": "2026-04-22T21:44:37.359529+00:00",
-      "traction_score": 74.75,
-      "meta": {
-        "video_id": "HIj8wU_rGIU",
-        "thumbnail": "https://i.ytimg.com/vi/HIj8wU_rGIU/mqdefault.jpg",
-        "duration": "33:08",
-        "view_count": 10964781
-      }
-    },
-    {
-      "id": "a28d53381ef0",
-      "source": "youtube",
-      "type": "video",
-      "title": "Python in 100 Seconds",
-      "summary": "Python is arguably the world's most popular programming language. It is easy to learn, yet suitable in professional software like ...",
-      "url": "https://www.youtube.com/watch?v=x7X9w_GIm1s",
-      "author": "Fireship",
-      "date": "2026-04-22T21:44:37.359559+00:00",
-      "traction_score": 74.75,
-      "meta": {
-        "video_id": "x7X9w_GIm1s",
-        "thumbnail": "https://i.ytimg.com/vi/x7X9w_GIm1s/mqdefault.jpg",
-        "duration": "2:24",
-        "view_count": 3033211
-      }
-    },
-    {
-      "id": "226c94de10f1",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Scoring Show HN submissions for AI design patterns",
-      "summary": "",
-      "url": "https://www.adriankrebs.ch/blog/design-slop/",
-      "author": "hubraumhugo",
-      "date": "2026-04-22T14:44:32+00:00",
-      "traction_score": 74.47,
-      "meta": {
-        "hn_id": 47864393,
-        "points": 246,
-        "num_comments": 190,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "b73d7e4369f5",
-      "source": "youtube",
-      "type": "video",
-      "title": "How I'd learn ML in 2025 (if I could start over)",
-      "summary": "If you want to learn AI/ ML in 2025 but don't know how to start, this video will help. In it, I share the 6 key steps I would take to learn ...",
-      "url": "https://www.youtube.com/watch?v=_xIwjmCH6D4",
-      "author": "Boris Meinardus",
-      "date": "2026-04-22T21:44:33.572292+00:00",
-      "traction_score": 74.26,
-      "meta": {
-        "video_id": "_xIwjmCH6D4",
-        "thumbnail": "https://i.ytimg.com/vi/_xIwjmCH6D4/mqdefault.jpg",
-        "duration": "16:24",
-        "view_count": 843842
-      }
-    },
-    {
-      "id": "78bd3e4e6971",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Framework Laptop 13 Pro",
-      "summary": "",
-      "url": "https://frame.work/laptop13pro",
-      "author": "Trollmann",
-      "date": "2026-04-21T18:00:34+00:00",
-      "traction_score": 74.13,
-      "meta": {
-        "hn_id": 47852177,
-        "points": 1419,
-        "num_comments": 728,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "222e8b0d0239",
-      "source": "youtube",
-      "type": "video",
-      "title": "7 new open source AI tools you need right now…",
-      "summary": "... https://www.recall.ai/fireship gets you $100 in free credits In today's we'll look at 7 open source AI projects you've never heard of ...",
-      "url": "https://www.youtube.com/watch?v=Xn-gtHDsaPY",
-      "author": "Fireship",
-      "date": "2026-04-22T21:44:35.432644+00:00",
-      "traction_score": 74.12,
-      "meta": {
-        "video_id": "Xn-gtHDsaPY",
-        "thumbnail": "https://i.ytimg.com/vi/Xn-gtHDsaPY/mqdefault.jpg",
-        "duration": "6:15",
-        "view_count": 804440
-      }
-    },
-    {
-      "id": "e9579ca571e4",
-      "source": "youtube",
-      "type": "video",
-      "title": "When open-sourcing your code goes wrong...",
-      "summary": "It's free forever for any open source project. Everything you use on the internet today is built on the shoulders of OSS - but not ...",
-      "url": "https://www.youtube.com/watch?v=wzzh7Not8XE",
-      "author": "Fireship",
-      "date": "2026-04-22T21:44:35.432668+00:00",
-      "traction_score": 73.79,
-      "meta": {
-        "video_id": "wzzh7Not8XE",
-        "thumbnail": "https://i.ytimg.com/vi/wzzh7Not8XE/mqdefault.jpg",
-        "duration": "6:39",
-        "view_count": 717866
-      }
-    },
-    {
-      "id": "a2626f0e0603",
-      "source": "youtube",
-      "type": "video",
-      "title": "Top 6 Coding Interview Concepts (Data Structures & Algorithms)",
-      "summary": "https://neetcode.io/ - A better way to prepare for Coding Interviews Discord: https://discord.gg/ddjKRXPqtk Twitter: ...",
-      "url": "https://www.youtube.com/watch?v=ft0owvS5tQA",
-      "author": "NeetCode",
-      "date": "2026-04-22T21:44:37.359518+00:00",
-      "traction_score": 73.67,
-      "meta": {
-        "video_id": "ft0owvS5tQA",
-        "thumbnail": "https://i.ytimg.com/vi/ft0owvS5tQA/mqdefault.jpg",
-        "duration": "10:51",
-        "view_count": 689166
-      }
-    },
-    {
-      "id": "e71b389a9e5c",
-      "source": "hackernews",
-      "type": "story",
-      "title": "We found a stable Firefox identifier linking all your private Tor identities",
-      "summary": "",
-      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "author": "danpinto",
-      "date": "2026-04-22T17:35:03+00:00",
-      "traction_score": 73.64,
-      "meta": {
-        "hn_id": 47866697,
-        "points": 224,
-        "num_comments": 66,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "d3ad9f7b79c0",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Our eighth generation TPUs: two chips for the agentic era",
-      "summary": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tp...",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-      "author": "xnx",
-      "date": "2026-04-22T12:15:29+00:00",
-      "traction_score": 73.62,
-      "meta": {
-        "hn_id": 47862497,
-        "points": 352,
-        "num_comments": 173,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "7086fee5ef9a",
-      "source": "youtube",
-      "type": "video",
-      "title": "ElevenLabs just got nuked by open source",
-      "summary": "Here's the Qwen3-TTS Demo app I showed in the video: https://huggingface.co/spaces/Qwen/Qwen3-TTS It's only a matter of time ...",
-      "url": "https://www.youtube.com/watch?v=dQ841Pd6YvQ",
-      "author": "Jeff Geerling",
-      "date": "2026-04-22T21:44:35.432680+00:00",
-      "traction_score": 73.28,
-      "meta": {
-        "video_id": "dQ841Pd6YvQ",
-        "thumbnail": "https://i.ytimg.com/vi/dQ841Pd6YvQ/mqdefault.jpg",
-        "duration": "3:28",
-        "view_count": 601400
-      }
-    },
-    {
-      "id": "daaa13b4cec0",
-      "source": "youtube",
-      "type": "video",
-      "title": "Do THIS instead of watching endless tutorials - how I’d learn Python FAST…",
-      "summary": "These are two of the best beginner-friendly Python resources I recommend: Python Programming Fundamentals (Datacamp) ...",
-      "url": "https://www.youtube.com/watch?v=mB0EBW-vDSQ",
-      "author": "Tech With Tim",
-      "date": "2026-04-22T21:44:37.359505+00:00",
-      "traction_score": 73.17,
-      "meta": {
-        "video_id": "mB0EBW-vDSQ",
-        "thumbnail": "https://i.ytimg.com/vi/mB0EBW-vDSQ/mqdefault.jpg",
-        "duration": "10:34",
-        "view_count": 579383
-      }
-    },
-    {
-      "id": "429caf588e0d",
-      "source": "hackernews",
-      "type": "story",
-      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-      "summary": "https://www.reuters.com/technology/spacex-says-it-has-option... https://www.nytimes.com/2026/04/21/business/spacex-cursor-de... ( https://archive.ph/c2Tac ) https://www.bloomberg.com/news/articles/2026-04-21/spacex-sa...",
-      "url": "https://twitter.com/spacex/status/2046713419978453374",
-      "author": "dmarcos",
-      "date": "2026-04-21T22:13:18+00:00",
-      "traction_score": 72.75,
-      "meta": {
-        "hn_id": 47855293,
-        "points": 787,
-        "num_comments": 940,
+        "points": 409,
+        "num_comments": 301,
         "story_type": "story"
       }
     },
@@ -396,79 +328,45 @@
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
       "author": "wahnfrieden",
       "date": "2026-04-21T18:50:00+00:00",
-      "traction_score": 72.72,
+      "traction_score": 71.61,
       "meta": {
         "hn_id": 47852835,
-        "points": 997,
-        "num_comments": 908,
+        "points": 1004,
+        "num_comments": 925,
         "story_type": "story"
       }
     },
     {
-      "id": "c2f10111bbb9",
+      "id": "226c94de10f1",
       "source": "hackernews",
       "type": "story",
-      "title": "Youth Suicides Declined After Creation of National Hotline",
+      "title": "Scoring Show HN submissions for AI design patterns",
       "summary": "",
-      "url": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
-      "author": "marojejian",
-      "date": "2026-04-22T16:07:56+00:00",
-      "traction_score": 72.61,
+      "url": "https://www.adriankrebs.ch/blog/design-slop/",
+      "author": "hubraumhugo",
+      "date": "2026-04-22T14:44:32+00:00",
+      "traction_score": 71.5,
       "meta": {
-        "hn_id": 47865622,
-        "points": 177,
-        "num_comments": 111,
+        "hn_id": 47864393,
+        "points": 272,
+        "num_comments": 201,
         "story_type": "story"
       }
     },
     {
-      "id": "c3b37ec882d3",
+      "id": "d3ad9f7b79c0",
       "source": "hackernews",
       "type": "story",
-      "title": "3.4M Solar Panels",
-      "summary": "",
-      "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-      "author": "marklit",
-      "date": "2026-04-22T12:04:30+00:00",
-      "traction_score": 72.43,
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "summary": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tp...",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "author": "xnx",
+      "date": "2026-04-22T12:15:29+00:00",
+      "traction_score": 71.42,
       "meta": {
-        "hn_id": 47862386,
-        "points": 260,
-        "num_comments": 195,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "15056d93fa45",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Claude Code to be removed from Anthropic's Pro plan?",
-      "summary": "https://x.com/TheAmolAvasare/status/2046725498592722972 https://xcancel.com/TheAmolAvasare/status/204672549859272297...",
-      "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-      "author": "JamesMcMinn",
-      "date": "2026-04-21T21:03:04+00:00",
-      "traction_score": 71.46,
-      "meta": {
-        "hn_id": 47854477,
-        "points": 653,
-        "num_comments": 613,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "98b8cca0f063",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Laws of Software Engineering",
-      "summary": "",
-      "url": "https://lawsofsoftwareengineering.com",
-      "author": "milanm081",
-      "date": "2026-04-21T11:04:56+00:00",
-      "traction_score": 71.37,
-      "meta": {
-        "hn_id": 47847179,
-        "points": 1123,
-        "num_comments": 509,
+        "hn_id": 47862497,
+        "points": 401,
+        "num_comments": 192,
         "story_type": "story"
       }
     },
@@ -480,30 +378,13 @@
       "summary": "This is why we can't have nice things. Referenced in this video: - Ars Technica's redaction: ...",
       "url": "https://www.youtube.com/watch?v=bZJ7A1QoUEI",
       "author": "Jeff Geerling",
-      "date": "2026-04-22T21:44:35.432626+00:00",
+      "date": "2026-04-23T01:58:14.407936+00:00",
       "traction_score": 71.29,
       "meta": {
         "video_id": "bZJ7A1QoUEI",
         "thumbnail": "https://i.ytimg.com/vi/bZJ7A1QoUEI/mqdefault.jpg",
         "duration": "3:37",
-        "view_count": 303112
-      }
-    },
-    {
-      "id": "4bebe83f9d6d",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "summary": "Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st...",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "author": "dlx",
-      "date": "2026-04-21T17:40:39+00:00",
-      "traction_score": 71.15,
-      "meta": {
-        "hn_id": 47851948,
-        "points": 767,
-        "num_comments": 508,
-        "story_type": "story"
+        "view_count": 303121
       }
     },
     {
@@ -514,30 +395,13 @@
       "summary": "Google's new developer verification requirements starting September 2026 will force ALL Android app developers to register with ...",
       "url": "https://www.youtube.com/watch?v=wRvqdLsnsKY",
       "author": "Techlore",
-      "date": "2026-04-22T21:44:35.432608+00:00",
+      "date": "2026-04-23T01:58:14.407923+00:00",
       "traction_score": 70.99,
       "meta": {
         "video_id": "wRvqdLsnsKY",
         "thumbnail": "https://i.ytimg.com/vi/wRvqdLsnsKY/mqdefault.jpg",
         "duration": "13:05",
-        "view_count": 272869
-      }
-    },
-    {
-      "id": "708580b7915b",
-      "source": "youtube",
-      "type": "video",
-      "title": "Claude Code Tutorial - Build Apps 10x Faster with AI",
-      "summary": "Claude Code tutorial - Learn how to use Claude Code like a real software engineer. Want to dive deeper? Check out my ...",
-      "url": "https://www.youtube.com/watch?v=IuyVVtr1uhY",
-      "author": "Programming with Mosh",
-      "date": "2026-04-22T21:44:37.359549+00:00",
-      "traction_score": 70.81,
-      "meta": {
-        "video_id": "IuyVVtr1uhY",
-        "thumbnail": "https://i.ytimg.com/vi/IuyVVtr1uhY/mqdefault.jpg",
-        "duration": "58:11",
-        "view_count": 256035
+        "view_count": 272890
       }
     },
     {
@@ -549,10 +413,10 @@
       "url": "https://github.com/kyegomez/OpenMythos",
       "author": "kyegomez",
       "date": "2026-04-18T12:57:52+00:00",
-      "traction_score": 70.51,
+      "traction_score": 70.65,
       "meta": {
-        "stars": 8745,
-        "forks": 1845,
+        "stars": 8900,
+        "forks": 1894,
         "language": "Python",
         "topics": [
           "ai",
@@ -565,54 +429,20 @@
       }
     },
     {
-      "id": "1d8e9c59e651",
+      "id": "c3b37ec882d3",
       "source": "hackernews",
       "type": "story",
-      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "title": "3.4M Solar Panels",
       "summary": "",
-      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "author": "cdrnsf",
-      "date": "2026-04-22T20:27:31+00:00",
-      "traction_score": 70.36,
+      "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+      "author": "marklit",
+      "date": "2026-04-22T12:04:30+00:00",
+      "traction_score": 70.3,
       "meta": {
-        "hn_id": 47868867,
-        "points": 90,
-        "num_comments": 29,
+        "hn_id": 47862386,
+        "points": 291,
+        "num_comments": 224,
         "story_type": "story"
-      }
-    },
-    {
-      "id": "1535ae65d954",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Parallel Agents in Zed",
-      "summary": "",
-      "url": "https://zed.dev/blog/parallel-agents",
-      "author": "ajeetdsouza",
-      "date": "2026-04-22T17:38:57+00:00",
-      "traction_score": 70.27,
-      "meta": {
-        "hn_id": 47866750,
-        "points": 113,
-        "num_comments": 61,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "490b1b5d9589",
-      "source": "youtube",
-      "type": "video",
-      "title": "Why Apple’s AI Strategy Matters More Than Ever",
-      "summary": "Apple turns 50 at a moment when it's losing the AI race and doing something once almost unthinkable: opening Siri to rival ...",
-      "url": "https://www.youtube.com/watch?v=M1WfaLA9NMs",
-      "author": "CNBC",
-      "date": "2026-04-22T21:44:31.331636+00:00",
-      "traction_score": 70.01,
-      "meta": {
-        "video_id": "M1WfaLA9NMs",
-        "thumbnail": "https://i.ytimg.com/vi/M1WfaLA9NMs/mqdefault.jpg",
-        "duration": "15:45",
-        "view_count": 194800
       }
     },
     {
@@ -623,29 +453,63 @@
       "summary": "AI whistleblower Karen Hao delivers a chilling warning about what's coming in 2026 and why most people are unprepared.",
       "url": "https://www.youtube.com/watch?v=SNyi4eNyPCc",
       "author": "AI Upload",
-      "date": "2026-04-22T21:44:28.886134+00:00",
-      "traction_score": 69.91,
+      "date": "2026-04-23T01:58:08.853671+00:00",
+      "traction_score": 69.99,
       "meta": {
         "video_id": "SNyi4eNyPCc",
         "thumbnail": "https://i.ytimg.com/vi/SNyi4eNyPCc/mqdefault.jpg",
         "duration": "23:14",
-        "view_count": 187713
+        "view_count": 193341
       }
     },
     {
-      "id": "530ee8fb601d",
+      "id": "99deb7d6fe6a",
+      "source": "youtube",
+      "type": "video",
+      "title": "Cursor 2.0 - Full Tutorial for Beginners",
+      "summary": "Get started building MCP servers with Arcade.dev: https://arcade.dev.plug.dev/onVacVC In this video, I'll give you a full beginner's ...",
+      "url": "https://www.youtube.com/watch?v=l30Eb76Tk5s",
+      "author": "Tech With Tim",
+      "date": "2026-04-23T01:58:16.368469+00:00",
+      "traction_score": 69.84,
+      "meta": {
+        "video_id": "l30Eb76Tk5s",
+        "thumbnail": "https://i.ytimg.com/vi/l30Eb76Tk5s/mqdefault.jpg",
+        "duration": "27:18",
+        "view_count": 183631
+      }
+    },
+    {
+      "id": "c2f10111bbb9",
       "source": "hackernews",
       "type": "story",
-      "title": "New study compares growing corn for energy to solar production",
+      "title": "Youth Suicides Declined After Creation of National Hotline",
       "summary": "",
-      "url": "https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/",
-      "author": "dotcoma",
-      "date": "2026-04-22T19:21:46+00:00",
-      "traction_score": 69.0,
+      "url": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
+      "author": "marojejian",
+      "date": "2026-04-22T16:07:56+00:00",
+      "traction_score": 69.79,
       "meta": {
-        "hn_id": 47868063,
-        "points": 47,
-        "num_comments": 77,
+        "hn_id": 47865622,
+        "points": 198,
+        "num_comments": 133,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "1535ae65d954",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Parallel agents in Zed",
+      "summary": "",
+      "url": "https://zed.dev/blog/parallel-agents",
+      "author": "ajeetdsouza",
+      "date": "2026-04-22T17:38:57+00:00",
+      "traction_score": 69.09,
+      "meta": {
+        "hn_id": 47866750,
+        "points": 159,
+        "num_comments": 98,
         "story_type": "story"
       }
     },
@@ -657,13 +521,13 @@
       "summary": "The sheer audacity of AMD - Tech News April 19 ▷ MY STORE - shirts, pint glasses & hoodies: http://paulshardware.net ...",
       "url": "https://www.youtube.com/watch?v=ts3BkiHfJKY",
       "author": "Paul's Hardware",
-      "date": "2026-04-22T21:44:31.331303+00:00",
-      "traction_score": 68.4,
+      "date": "2026-04-23T01:58:10.663171+00:00",
+      "traction_score": 68.41,
       "meta": {
         "video_id": "ts3BkiHfJKY",
         "thumbnail": "https://i.ytimg.com/vi/ts3BkiHfJKY/mqdefault.jpg",
         "duration": "11:36",
-        "view_count": 111392
+        "view_count": 111784
       }
     },
     {
@@ -674,80 +538,63 @@
       "summary": "Here's the AI News you probably missed this week. Build AI apps that actually scale. Learn more about Crusoe Managed ...",
       "url": "https://www.youtube.com/watch?v=bIrzOQtnp8w",
       "author": "Matt Wolfe",
-      "date": "2026-04-22T21:44:31.331625+00:00",
-      "traction_score": 68.39,
+      "date": "2026-04-23T01:58:10.663417+00:00",
+      "traction_score": 68.41,
       "meta": {
         "video_id": "bIrzOQtnp8w",
         "thumbnail": "https://i.ytimg.com/vi/bIrzOQtnp8w/mqdefault.jpg",
         "duration": "36:44",
-        "view_count": 111284
+        "view_count": 111885
       }
     },
     {
-      "id": "97379dee0ed7",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Irony as Meta staff unhappy about running surveillance software on work PCs",
-      "summary": "",
-      "url": "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
-      "author": "jjgreen",
-      "date": "2026-04-22T08:33:17+00:00",
-      "traction_score": 68.35,
+      "id": "54a8b737c75e",
+      "source": "youtube",
+      "type": "video",
+      "title": "Top 15 New Breakthrough Technologies of 2026 (According to MIT)",
+      "summary": "What are the most important breakthrough technologies of 2026—and why are experts at Massachusetts Institute of Technology ...",
+      "url": "https://www.youtube.com/watch?v=wjJG8ga63lQ",
+      "author": "AI Uncovered",
+      "date": "2026-04-23T01:58:08.853942+00:00",
+      "traction_score": 67.63,
       "meta": {
-        "hn_id": 47860742,
-        "points": 217,
-        "num_comments": 162,
-        "story_type": "story"
+        "video_id": "wjJG8ga63lQ",
+        "thumbnail": "https://i.ytimg.com/vi/wjJG8ga63lQ/mqdefault.jpg",
+        "duration": "14:29",
+        "view_count": 85498
       }
     },
     {
-      "id": "8003706c5682",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Ultraviolet corona discharges on treetops during storms",
-      "summary": "",
-      "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
-      "author": "t-3",
-      "date": "2026-04-22T13:28:40+00:00",
-      "traction_score": 67.37,
+      "id": "73a3c308604b",
+      "source": "youtube",
+      "type": "video",
+      "title": "This Open Source Project Just Killed the Proxmox GUI!",
+      "summary": "Proxmox Datacenter Manager might already be obsolete… and an open-source project may have just replaced it. In this video we ...",
+      "url": "https://www.youtube.com/watch?v=qnq0Y9mJgXA",
+      "author": "2GuysTek",
+      "date": "2026-04-23T01:58:14.407979+00:00",
+      "traction_score": 67.47,
       "meta": {
-        "hn_id": 47863324,
-        "points": 172,
-        "num_comments": 50,
-        "story_type": "story"
+        "video_id": "qnq0Y9mJgXA",
+        "thumbnail": "https://i.ytimg.com/vi/qnq0Y9mJgXA/mqdefault.jpg",
+        "duration": "16:08",
+        "view_count": 80993
       }
     },
     {
-      "id": "d10645b05616",
+      "id": "66b3e6284725",
       "source": "hackernews",
       "type": "story",
-      "title": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser",
-      "summary": "",
-      "url": "https://duckdb.org/2026/04/13/announcing-duckdb-152",
-      "author": "janandonly",
-      "date": "2026-04-22T14:49:02+00:00",
-      "traction_score": 67.36,
+      "title": "Website streamed live directly from a model",
+      "summary": "https://x.com/zan2434/status/2046982383430496444 ( https://xcancel.com/zan2434/status/2046982383430496444 )",
+      "url": "https://flipbook.page/",
+      "author": "sethbannon",
+      "date": "2026-04-22T18:01:18+00:00",
+      "traction_score": 67.35,
       "meta": {
-        "hn_id": 47864454,
-        "points": 135,
-        "num_comments": 48,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "dd2fb8f42749",
-      "source": "hackernews",
-      "type": "story",
-      "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
-      "summary": "",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
-      "author": "ingve",
-      "date": "2026-04-22T06:38:05+00:00",
-      "traction_score": 67.15,
-      "meta": {
-        "hn_id": 47859861,
-        "points": 190,
-        "num_comments": 198,
+        "hn_id": 47867048,
+        "points": 151,
+        "num_comments": 55,
         "story_type": "story"
       }
     },
@@ -759,114 +606,80 @@
       "summary": "Check out Verdent here! https://www.verdent.ai/?id=700563 Timestamps ⏰ 00:00 Should you still learn to code? 03:29 What ...",
       "url": "https://www.youtube.com/watch?v=zW9o8q2fXfM",
       "author": "Marina Wyss - AI & Machine Learning",
-      "date": "2026-04-22T21:44:33.572266+00:00",
+      "date": "2026-04-23T01:58:12.652118+00:00",
       "traction_score": 66.71,
       "meta": {
         "video_id": "zW9o8q2fXfM",
         "thumbnail": "https://i.ytimg.com/vi/zW9o8q2fXfM/mqdefault.jpg",
         "duration": "12:02",
-        "view_count": 62134
+        "view_count": 62280
+      }
+    },
+    {
+      "id": "530ee8fb601d",
+      "source": "hackernews",
+      "type": "story",
+      "title": "New study compares growing corn for energy to solar production",
+      "summary": "",
+      "url": "https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/",
+      "author": "dotcoma",
+      "date": "2026-04-22T19:21:46+00:00",
+      "traction_score": 66.42,
+      "meta": {
+        "hn_id": 47868063,
+        "points": 63,
+        "num_comments": 99,
+        "story_type": "story"
       }
     },
     {
       "id": "27a7c08ef83d",
       "source": "hackernews",
       "type": "story",
-      "title": "Martin Fowler: Technical, Cognitive, and Intent Debt",
+      "title": "Technical, cognitive, and intent debt",
       "summary": "",
-      "url": "https://martinfowler.com/fragments/2026-04-14.html",
+      "url": "https://martinfowler.com/fragments/2026-04-02.html",
       "author": "theorchid",
       "date": "2026-04-22T16:11:23+00:00",
-      "traction_score": 66.62,
+      "traction_score": 66.32,
       "meta": {
         "hn_id": 47865661,
-        "points": 140,
-        "num_comments": 23,
+        "points": 192,
+        "num_comments": 46,
         "story_type": "story"
       }
     },
     {
-      "id": "74a8f8fd2f7c",
+      "id": "93fe12fb282f",
+      "source": "youtube",
+      "type": "video",
+      "title": "Top 15 New Discoveries MADE By AI (2026)",
+      "summary": "What if AI is no longer just helping scientists—but making discoveries on its own? In this video, we break down the top 15 new ...",
+      "url": "https://www.youtube.com/watch?v=SCLHfhu5ZmM",
+      "author": "AI Uncovered",
+      "date": "2026-04-23T01:58:08.853958+00:00",
+      "traction_score": 65.7,
+      "meta": {
+        "video_id": "SCLHfhu5ZmM",
+        "thumbnail": "https://i.ytimg.com/vi/SCLHfhu5ZmM/mqdefault.jpg",
+        "duration": "12:33",
+        "view_count": 43971
+      }
+    },
+    {
+      "id": "dd2fb8f42749",
       "source": "hackernews",
       "type": "story",
-      "title": "Drunk post: Things I've learned as a senior engineer (2021)",
+      "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
       "summary": "",
-      "url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
-      "author": "zdw",
-      "date": "2026-04-21T23:53:45+00:00",
-      "traction_score": 66.52,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
+      "author": "ingve",
+      "date": "2026-04-22T06:38:05+00:00",
+      "traction_score": 65.27,
       "meta": {
-        "hn_id": 47856535,
-        "points": 311,
-        "num_comments": 227,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "4b8731f04bd7",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Tell HN: I'm sick of AI everything",
-      "summary": "A while back, I stopped using Facebook because I just couldn't take it anymore. Just totally sick of it. I'm honestly getting there with AI. At this point, I would prefer to have anything AI related just be blocked at the browser level.",
-      "url": "https://news.ycombinator.com/item?id=47857461",
-      "author": "jonthepirate",
-      "date": "2026-04-22T01:19:30+00:00",
-      "traction_score": 66.29,
-      "meta": {
-        "hn_id": 47857461,
-        "points": 308,
-        "num_comments": 177,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "88d615d2ef5e",
-      "source": "hackernews",
-      "type": "story",
-      "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
-      "summary": "",
-      "url": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
-      "author": "PotatoNinja",
-      "date": "2026-04-22T10:51:09+00:00",
-      "traction_score": 65.41,
-      "meta": {
-        "hn_id": 47861703,
-        "points": 127,
-        "num_comments": 84,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "dffe90331a3a",
-      "source": "hackernews",
-      "type": "story",
-      "title": "San Diego rents declined following surge in supply",
-      "summary": "",
-      "url": "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply",
-      "author": "littlexsparkee",
-      "date": "2026-04-22T01:21:09+00:00",
-      "traction_score": 65.32,
-      "meta": {
-        "hn_id": 47857477,
-        "points": 216,
-        "num_comments": 219,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "793788b258ae",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Tim Cook's Impeccable Timing",
-      "summary": "John Ternus to become Apple CEO - https://news.ycombinator.com/item?id=47840219 - April 2026 (1213 comments)",
-      "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
-      "author": "hasheddan",
-      "date": "2026-04-21T11:30:03+00:00",
-      "traction_score": 65.23,
-      "meta": {
-        "hn_id": 47847324,
-        "points": 341,
-        "num_comments": 410,
+        "hn_id": 47859861,
+        "points": 203,
+        "num_comments": 203,
         "story_type": "story"
       }
     },
@@ -879,165 +692,29 @@
       "url": "https://github.com/alchaincyf/huashu-design",
       "author": "alchaincyf",
       "date": "2026-04-19T14:42:06+00:00",
-      "traction_score": 65.13,
+      "traction_score": 65.27,
       "meta": {
-        "stars": 4378,
-        "forks": 690,
+        "stars": 4499,
+        "forks": 713,
         "language": "HTML",
         "topics": [],
         "full_name": "alchaincyf/huashu-design"
       }
     },
     {
-      "id": "fed9ec0e1b15",
+      "id": "8003706c5682",
       "source": "hackernews",
       "type": "story",
-      "title": "Surveillance Pricing: Exploiting Information Asymmetries",
+      "title": "Ultraviolet corona discharges on treetops during storms",
       "summary": "",
-      "url": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
-      "author": "cainxinth",
-      "date": "2026-04-22T17:13:19+00:00",
-      "traction_score": 65.12,
-      "meta": {
-        "hn_id": 47866395,
-        "points": 70,
-        "num_comments": 28,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "66b3e6284725",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Website streamed live directly from a model",
-      "summary": "https://x.com/zan2434/status/2046982383430496444 ( https://xcancel.com/zan2434/status/2046982383430496444 )",
-      "url": "https://flipbook.page/",
-      "author": "sethbannon",
-      "date": "2026-04-22T18:01:18+00:00",
+      "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+      "author": "t-3",
+      "date": "2026-04-22T13:28:40+00:00",
       "traction_score": 64.93,
       "meta": {
-        "hn_id": 47867048,
-        "points": 58,
-        "num_comments": 26,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "a39b02026521",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Workspace Agents in ChatGPT",
-      "summary": "",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-      "author": "mfiguiere",
-      "date": "2026-04-22T17:47:07+00:00",
-      "traction_score": 64.81,
-      "meta": {
-        "hn_id": 47866860,
-        "points": 65,
-        "num_comments": 23,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "c85b7329afb6",
-      "source": "hackernews",
-      "type": "story",
-      "title": "How does GPS work?",
-      "summary": "",
-      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
-      "author": "alfanick",
-      "date": "2026-04-22T09:22:05+00:00",
-      "traction_score": 64.81,
-      "meta": {
-        "hn_id": 47861087,
-        "points": 209,
-        "num_comments": 47,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "a649548d6599",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Kernel code removals driven by LLM-created security reports",
-      "summary": "",
-      "url": "https://lwn.net/Articles/1068928/",
-      "author": "edward",
-      "date": "2026-04-22T11:48:07+00:00",
-      "traction_score": 64.79,
-      "meta": {
-        "hn_id": 47862230,
-        "points": 96,
-        "num_comments": 82,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "915a2af258a0",
-      "source": "youtube",
-      "type": "video",
-      "title": "Kimi K2.6, GPT 5.5, Deepseek V4, Codex Superapp, Gemini 3.5, Grok 5 = AGI, & More! Huge AI NEWS!",
-      "summary": "We are in one of the most explosive weeks in AI history. From Kimi K2.6 pushing open-source coding to insane new levels, ...",
-      "url": "https://www.youtube.com/watch?v=F1POR_pzsew",
-      "author": "WorldofAI",
-      "date": "2026-04-22T21:44:28.886179+00:00",
-      "traction_score": 64.76,
-      "meta": {
-        "video_id": "F1POR_pzsew",
-        "thumbnail": "https://i.ytimg.com/vi/F1POR_pzsew/mqdefault.jpg",
-        "duration": "14:02",
-        "view_count": 31735
-      }
-    },
-    {
-      "id": "115aa2895db2",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Anker made its own chip to bring AI to all its products",
-      "summary": "",
-      "url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
-      "author": "Brajeshwar",
-      "date": "2026-04-22T17:10:46+00:00",
-      "traction_score": 64.73,
-      "meta": {
-        "hn_id": 47866368,
-        "points": 57,
-        "num_comments": 34,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "1fd80caccf3e",
-      "source": "hackernews",
-      "type": "story",
-      "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
-      "summary": "",
-      "url": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
-      "author": "ineedasername",
-      "date": "2026-04-22T02:49:40+00:00",
-      "traction_score": 64.73,
-      "meta": {
-        "hn_id": 47858246,
-        "points": 218,
-        "num_comments": 145,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "2d925fd61236",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "summary": "",
-      "url": "https://docs.openclaw.ai/providers/anthropic",
-      "author": "jmsflknr",
-      "date": "2026-04-21T03:43:03+00:00",
-      "traction_score": 64.61,
-      "meta": {
-        "hn_id": 47844269,
-        "points": 497,
-        "num_comments": 288,
+        "hn_id": 47863324,
+        "points": 199,
+        "num_comments": 54,
         "story_type": "story"
       }
     },
@@ -1049,13 +726,13 @@
       "summary": "AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...",
       "url": "https://www.youtube.com/watch?v=EJbJMg2RNgw",
       "author": "AI Revolution",
-      "date": "2026-04-22T21:44:28.886049+00:00",
-      "traction_score": 64.31,
+      "date": "2026-04-23T01:58:08.853925+00:00",
+      "traction_score": 64.44,
       "meta": {
         "video_id": "EJbJMg2RNgw",
         "thumbnail": "https://i.ytimg.com/vi/EJbJMg2RNgw/mqdefault.jpg",
         "duration": "16:29",
-        "view_count": 27171
+        "view_count": 28373
       }
     },
     {
@@ -1067,29 +744,63 @@
       "url": "https://github.com/browser-use/browser-harness",
       "author": "browser-use",
       "date": "2026-04-17T01:56:15+00:00",
-      "traction_score": 64.23,
+      "traction_score": 64.42,
       "meta": {
-        "stars": 4986,
-        "forks": 435,
+        "stars": 5071,
+        "forks": 455,
         "language": "Python",
         "topics": [],
         "full_name": "browser-use/browser-harness"
       }
     },
     {
-      "id": "5291834d56c7",
+      "id": "a39b02026521",
       "source": "hackernews",
       "type": "story",
-      "title": "Google Cloud customer wakes up to $18,000 bill despite $7 budget",
+      "title": "Workspace Agents in ChatGPT",
       "summary": "",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-customer-wakes-up-to-usd18-000-bill-despite-usd7-budget-thanks-to-forgotten-public-api-key-attacker-put-in-60-000-requests-and-blasted-through-usd1-400-spending-cap",
-      "author": "speckx",
-      "date": "2026-04-22T17:05:11+00:00",
-      "traction_score": 63.6,
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "author": "mfiguiere",
+      "date": "2026-04-22T17:47:07+00:00",
+      "traction_score": 64.14,
       "meta": {
-        "hn_id": 47866293,
-        "points": 52,
-        "num_comments": 28,
+        "hn_id": 47866860,
+        "points": 102,
+        "num_comments": 38,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "d10645b05616",
+      "source": "hackernews",
+      "type": "story",
+      "title": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser",
+      "summary": "",
+      "url": "https://duckdb.org/2026/04/13/announcing-duckdb-152",
+      "author": "janandonly",
+      "date": "2026-04-22T14:49:02+00:00",
+      "traction_score": 64.09,
+      "meta": {
+        "hn_id": 47864454,
+        "points": 144,
+        "num_comments": 49,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "fed9ec0e1b15",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Surveillance Pricing: Exploiting Information Asymmetries",
+      "summary": "",
+      "url": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
+      "author": "cainxinth",
+      "date": "2026-04-22T17:13:19+00:00",
+      "traction_score": 63.97,
+      "meta": {
+        "hn_id": 47866395,
+        "points": 104,
+        "num_comments": 41,
         "story_type": "story"
       }
     },
@@ -1101,30 +812,13 @@
       "summary": "Keeping tabs on your network's health, detecting intrusions, and making sure everything runs smoothly depends heavily on the ...",
       "url": "https://www.youtube.com/watch?v=ADlw8SEfkmQ",
       "author": "SkillsBuild Security",
-      "date": "2026-04-22T21:44:35.432691+00:00",
+      "date": "2026-04-23T01:58:14.407972+00:00",
       "traction_score": 63.42,
       "meta": {
         "video_id": "ADlw8SEfkmQ",
         "thumbnail": "https://i.ytimg.com/vi/ADlw8SEfkmQ/mqdefault.jpg",
         "duration": "11:50",
-        "view_count": 19987
-      }
-    },
-    {
-      "id": "d8cd0e241582",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "summary": "",
-      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "author": "Brajeshwar",
-      "date": "2026-04-21T13:08:25+00:00",
-      "traction_score": 63.41,
-      "meta": {
-        "hn_id": 47848276,
-        "points": 273,
-        "num_comments": 289,
-        "story_type": "story"
+        "view_count": 20008
       }
     },
     {
@@ -1135,7 +829,7 @@
       "summary": "Boston Dynamics is building its Atlas robot brain to prepare for a consume release. Plus, the company addresses the three-finger ...",
       "url": "https://www.youtube.com/watch?v=UAQeSRnuBN0",
       "author": "AI News",
-      "date": "2026-04-22T21:44:28.886241+00:00",
+      "date": "2026-04-23T01:58:08.853934+00:00",
       "traction_score": 63.25,
       "meta": {
         "video_id": "UAQeSRnuBN0",
@@ -1153,488 +847,28 @@
       "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
       "author": "kaipereira",
       "date": "2026-04-20T23:35:06+00:00",
-      "traction_score": 63.07,
+      "traction_score": 62.87,
       "meta": {
         "hn_id": 47842569,
-        "points": 577,
-        "num_comments": 166,
+        "points": 585,
+        "num_comments": 172,
         "story_type": "story"
       }
     },
     {
-      "id": "905828a64e98",
+      "id": "c85b7329afb6",
       "source": "hackernews",
       "type": "story",
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "summary": "Vercel April 2026 security incident - https://news.ycombinator.com/item?id=47824463 - April 2026 (485 comments) A Roblox cheat and one AI tool brought down Vercel's platform - https://news.ycombinator.com/item?id=47844431 - April 2026 (145 comments)",
-      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "author": "queenelvis",
-      "date": "2026-04-21T17:14:35+00:00",
-      "traction_score": 62.81,
-      "meta": {
-        "hn_id": 47851634,
-        "points": 361,
-        "num_comments": 116,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "7766860f208a",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Original GrapheneOS responses to WIRED fact checker",
+      "title": "How does GPS work?",
       "summary": "",
-      "url": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
-      "author": "ChrisArchitect",
-      "date": "2026-04-21T15:04:24+00:00",
-      "traction_score": 62.77,
+      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
+      "author": "alfanick",
+      "date": "2026-04-22T09:22:05+00:00",
+      "traction_score": 62.4,
       "meta": {
-        "hn_id": 47849854,
-        "points": 257,
-        "num_comments": 225,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "3ed19ee01a2a",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "summary": "",
-      "url": "https://britannica11.org/",
-      "author": "ahaspel",
-      "date": "2026-04-21T17:33:50+00:00",
-      "traction_score": 62.5,
-      "meta": {
-        "hn_id": 47851885,
-        "points": 335,
-        "num_comments": 114,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "5404a00650ca",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Columnar Storage Is Normalization",
-      "summary": "",
-      "url": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
-      "author": "ibobev",
-      "date": "2026-04-22T12:30:14+00:00",
-      "traction_score": 62.3,
-      "meta": {
-        "hn_id": 47862626,
-        "points": 90,
-        "num_comments": 34,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "eb4d684b641b",
-      "source": "hackernews",
-      "type": "story",
-      "title": "I don't want your PRs anymore",
-      "summary": "",
-      "url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
-      "author": "speckx",
-      "date": "2026-04-21T20:21:40+00:00",
-      "traction_score": 62.16,
-      "meta": {
-        "hn_id": 47854051,
-        "points": 231,
-        "num_comments": 135,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "835aba54dbd1",
-      "source": "youtube",
-      "type": "video",
-      "title": "Google to Release New AI Chips, Challenging Nvidia | Bloomberg Tech 4/20/2026",
-      "summary": "Bloomberg's Caroline Hyde and Ed Ludlow discuss Google's plans for new AI chips focused on inference. Plus, Blue Origin ...",
-      "url": "https://www.youtube.com/watch?v=utdN_Qj9O6M",
-      "author": "Bloomberg Technology",
-      "date": "2026-04-22T21:44:31.331572+00:00",
-      "traction_score": 61.85,
-      "meta": {
-        "video_id": "utdN_Qj9O6M",
-        "thumbnail": "https://i.ytimg.com/vi/utdN_Qj9O6M/mqdefault.jpg",
-        "duration": "44:08",
-        "view_count": 11613
-      }
-    },
-    {
-      "id": "5d5138304141",
-      "source": "youtube",
-      "type": "video",
-      "title": "Grok AI Just REVISED Its 2026 Crypto Market Top Prediction (BTC, ETH & Altcoins)",
-      "summary": "Welcome Back To The Channel! Make Sure To Check Out Bitcast: https://bitcast.network/ iTrust Capital – $100 Bonus (Crypto ...",
-      "url": "https://www.youtube.com/watch?v=LgPdNCuTysQ",
-      "author": "Aaron Bennett",
-      "date": "2026-04-22T21:44:28.886204+00:00",
-      "traction_score": 61.84,
-      "meta": {
-        "video_id": "LgPdNCuTysQ",
-        "thumbnail": "https://i.ytimg.com/vi/LgPdNCuTysQ/mqdefault.jpg",
-        "duration": "25:21",
-        "view_count": 11565
-      }
-    },
-    {
-      "id": "0f78341394b4",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Smoking ban for people born after 2008 in the UK agreed",
-      "summary": "",
-      "url": "https://www.bbc.co.uk/news/articles/cn08jy6w0l5o",
-      "author": "AndrewDucker",
-      "date": "2026-04-21T11:15:34+00:00",
-      "traction_score": 61.7,
-      "meta": {
-        "hn_id": 47847240,
-        "points": 167,
-        "num_comments": 392,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "6cdc791bbaf9",
-      "source": "youtube",
-      "type": "video",
-      "title": "The 2026 AI 50 List: Top Artificial Intelligence Companies",
-      "summary": "Artificial intelligence has become part of our lives, increasingly core to how we work, search for information and express ideas.",
-      "url": "https://www.youtube.com/watch?v=mKEr3NKBYSk",
-      "author": "Forbes",
-      "date": "2026-04-22T21:44:28.886153+00:00",
-      "traction_score": 61.68,
-      "meta": {
-        "video_id": "mKEr3NKBYSk",
-        "thumbnail": "https://i.ytimg.com/vi/mKEr3NKBYSk/mqdefault.jpg",
-        "duration": "5:39",
-        "view_count": 10948
-      }
-    },
-    {
-      "id": "de58bf36b30c",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Brands got worse on purpose",
-      "summary": "",
-      "url": "https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose",
-      "author": "neon_electro",
-      "date": "2026-04-21T14:19:49+00:00",
-      "traction_score": 61.17,
-      "meta": {
-        "hn_id": 47849221,
-        "points": 227,
-        "num_comments": 173,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "ff392cf53cde",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Show HN: Broccoli, one shot coding agent on the cloud",
-      "summary": "Hi HN — we built Broccoli, an open-source harness for taking coding tasks from Linear, running them in isolated cloud sandboxes, and opening PRs for a human to review. We’re a small team, and our main company supplies voice data. But we kept running into the same problem with coding agents. We’d hav",
-      "url": "https://github.com/besimple-oss/broccoli",
-      "author": "yzhong94",
-      "date": "2026-04-22T16:09:56+00:00",
-      "traction_score": 61.15,
-      "meta": {
-        "hn_id": 47865642,
-        "points": 37,
-        "num_comments": 29,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "c4dd776aa52c",
-      "source": "youtube",
-      "type": "video",
-      "title": "How AI could impact your life in 2026",
-      "summary": "Price Waterhouse Cooper's Matt Wood talks about trends for artificial intelligence and what you can do to embrace the technology.",
-      "url": "https://www.youtube.com/watch?v=OpAZvUSeNaM",
-      "author": "ABC News",
-      "date": "2026-04-22T21:44:28.886166+00:00",
-      "traction_score": 60.78,
-      "meta": {
-        "video_id": "OpAZvUSeNaM",
-        "thumbnail": "https://i.ytimg.com/vi/OpAZvUSeNaM/mqdefault.jpg",
-        "duration": "4:17",
-        "view_count": 8023
-      }
-    },
-    {
-      "id": "007628b4a312",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Another Day Has Come",
-      "summary": "",
-      "url": "https://daringfireball.net/2026/04/another_day_has_come",
-      "author": "ndr42",
-      "date": "2026-04-21T20:52:19+00:00",
-      "traction_score": 60.73,
-      "meta": {
-        "hn_id": 47854365,
-        "points": 163,
-        "num_comments": 136,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "6cf42177ee47",
-      "source": "youtube",
-      "type": "video",
-      "title": "Machine Learning Engineer Full Course 2026 | Machine Learning Tutorial For Beginners | Simplilearn",
-      "summary": "Microsoft AI Engineer Program ...",
-      "url": "https://www.youtube.com/watch?v=53mqteI5TS0",
-      "author": "Simplilearn",
-      "date": "2026-04-22T21:44:33.572280+00:00",
-      "traction_score": 60.66,
-      "meta": {
-        "video_id": "53mqteI5TS0",
-        "thumbnail": "https://i.ytimg.com/vi/53mqteI5TS0/mqdefault.jpg",
-        "duration": "23:26:36",
-        "view_count": 7704
-      }
-    },
-    {
-      "id": "9191adb198fd",
-      "source": "youtube",
-      "type": "video",
-      "title": "Machine Learning Full Course - Learn Machine Learning (2026) | Machine Learning Tutorial | Edureka",
-      "summary": "PGP in Generative AI and ML in collaboration with Illinois Tech: ...",
-      "url": "https://www.youtube.com/watch?v=_WcSO1BE7To",
-      "author": "edureka!",
-      "date": "2026-04-22T21:44:33.572304+00:00",
-      "traction_score": 60.57,
-      "meta": {
-        "video_id": "_WcSO1BE7To",
-        "thumbnail": "https://i.ytimg.com/vi/_WcSO1BE7To/mqdefault.jpg",
-        "duration": "10:51:05",
-        "view_count": 7466
-      }
-    },
-    {
-      "id": "c0adf9657148",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-      "summary": "Hi HN, I built VidStudio, a privacy focused video editor that runs in the browser. I tried to keep it as frictionless as possible, so there are no accounts and no uploads. Everything is persisted on your machine. Some of the features: multi-track timeline, frame accurate seek, MP4 export, audio, vid",
-      "url": "https://vidstudio.app/video-editor",
-      "author": "kolx",
-      "date": "2026-04-21T11:58:16+00:00",
-      "traction_score": 60.22,
-      "meta": {
-        "hn_id": 47847558,
-        "points": 293,
-        "num_comments": 104,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "0d65b46c2890",
-      "source": "hackernews",
-      "type": "story",
-      "title": "OpenAI: Workspace Agents for Business",
-      "summary": "",
-      "url": "https://openai.com/business/workspace-agents/",
-      "author": "tosh",
-      "date": "2026-04-22T18:04:07+00:00",
-      "traction_score": 60.19,
-      "meta": {
-        "hn_id": 47867085,
-        "points": 41,
-        "num_comments": 9,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "8583d21f6c1a",
-      "source": "hackernews",
-      "type": "story",
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "summary": "",
-      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "author": "bishwasbh",
-      "date": "2026-04-21T04:12:12+00:00",
-      "traction_score": 60.15,
-      "meta": {
-        "hn_id": 47844431,
-        "points": 282,
-        "num_comments": 161,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "2a9ac935421e",
-      "source": "youtube",
-      "type": "video",
-      "title": "Destroy All Phonorecords - Musk v. Altman, Claude Opus 4.7, & Voyager 1",
-      "summary": "As Anthropic, OpenAI, and industry giants race to outpace each other, data centers and supply chains are straining, while job ...",
-      "url": "https://www.youtube.com/watch?v=SVPA2mqd_R8",
-      "author": "This Week in Tech",
-      "date": "2026-04-22T21:44:31.331612+00:00",
-      "traction_score": 59.73,
-      "meta": {
-        "video_id": "SVPA2mqd_R8",
-        "thumbnail": "https://i.ytimg.com/vi/SVPA2mqd_R8/mqdefault.jpg",
-        "duration": "2:48:41",
-        "view_count": 5585
-      }
-    },
-    {
-      "id": "40a6bc0f17bc",
-      "source": "hackernews",
-      "type": "story",
-      "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-      "summary": "",
-      "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-      "author": "jlark77777",
-      "date": "2026-04-20T21:20:52+00:00",
-      "traction_score": 59.68,
-      "meta": {
-        "hn_id": 47840980,
-        "points": 300,
-        "num_comments": 160,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "68dc5b223628",
-      "source": "hackernews",
-      "type": "story",
-      "title": "You don't need advice from editors on rejected manuscripts",
-      "summary": "https://xcancel.com/orsonscottcard/status/204670229440668075...",
-      "url": "https://twitter.com/orsonscottcard/status/2046702294406680751",
-      "author": "MrBuddyCasino",
-      "date": "2026-04-22T08:25:32+00:00",
-      "traction_score": 59.31,
-      "meta": {
-        "hn_id": 47860682,
-        "points": 76,
-        "num_comments": 45,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "b27cd838f5f1",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Cal.diy: open-source community edition of cal.com",
-      "summary": "",
-      "url": "https://github.com/calcom/cal.diy",
-      "author": "petecooper",
-      "date": "2026-04-21T17:58:21+00:00",
-      "traction_score": 59.26,
-      "meta": {
-        "hn_id": 47852155,
-        "points": 250,
-        "num_comments": 61,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "477c2a8812df",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Jujutsu megamerges for fun and profit",
-      "summary": "",
-      "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
-      "author": "icorbrey",
-      "date": "2026-04-20T21:32:10+00:00",
-      "traction_score": 59.18,
-      "meta": {
-        "hn_id": 47841129,
-        "points": 262,
-        "num_comments": 166,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "845fed596fa6",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Fusion Power Plant Simulator",
-      "summary": "",
-      "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
-      "author": "sam",
-      "date": "2026-04-21T14:26:52+00:00",
-      "traction_score": 59.15,
-      "meta": {
-        "hn_id": 47849315,
-        "points": 183,
-        "num_comments": 125,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "1d6b14bd650c",
-      "source": "github",
-      "type": "repo",
-      "title": "tw93/Kami — 👩‍🚒 Good content deserves good paper.",
-      "summary": "👩‍🚒 Good content deserves good paper.",
-      "url": "https://github.com/tw93/Kami",
-      "author": "tw93",
-      "date": "2026-04-20T16:35:19+00:00",
-      "traction_score": 59.0,
-      "meta": {
-        "stars": 2504,
-        "forks": 119,
-        "language": "HTML",
-        "topics": [],
-        "full_name": "tw93/Kami"
-      }
-    },
-    {
-      "id": "2484993d9092",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Israeli soldiers using sexual assault to force Palestinians out of West Bank",
-      "summary": "",
-      "url": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
-      "author": "hebelehubele",
-      "date": "2026-04-21T05:15:23+00:00",
-      "traction_score": 57.96,
-      "meta": {
-        "hn_id": 47844797,
-        "points": 234,
-        "num_comments": 102,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "08f50f8e58a9",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Less human AI agents, please",
-      "summary": "",
-      "url": "https://nial.se/blog/less-human-ai-agents-please/",
-      "author": "nialse",
-      "date": "2026-04-21T06:58:08+00:00",
-      "traction_score": 57.85,
-      "meta": {
-        "hn_id": 47845429,
-        "points": 155,
-        "num_comments": 166,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "e94fb59135bf",
-      "source": "hackernews",
-      "type": "story",
-      "title": "As oceans warm, great white sharks are overheating",
-      "summary": "",
-      "url": "https://e360.yale.edu/digest/great-white-sharks-climate",
-      "author": "speckx",
-      "date": "2026-04-21T14:48:55+00:00",
-      "traction_score": 57.69,
-      "meta": {
-        "hn_id": 47849592,
-        "points": 127,
-        "num_comments": 131,
+        "hn_id": 47861087,
+        "points": 217,
+        "num_comments": 48,
         "story_type": "story"
       }
     },
@@ -1647,45 +881,28 @@
       "url": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
       "author": "wslh",
       "date": "2026-04-22T15:13:48+00:00",
-      "traction_score": 57.6,
+      "traction_score": 62.35,
       "meta": {
         "hn_id": 47864785,
-        "points": 26,
-        "num_comments": 21,
+        "points": 68,
+        "num_comments": 77,
         "story_type": "story"
       }
     },
     {
-      "id": "ad17317ec4e6",
+      "id": "a649548d6599",
       "source": "hackernews",
       "type": "story",
-      "title": "A Periodic Map of Cheese",
+      "title": "Kernel code removals driven by LLM-created security reports",
       "summary": "",
-      "url": "https://cheesemap.netlify.app/",
-      "author": "sfrechtling",
-      "date": "2026-04-21T16:31:21+00:00",
-      "traction_score": 57.6,
+      "url": "https://lwn.net/Articles/1068928/",
+      "author": "edward",
+      "date": "2026-04-22T11:48:07+00:00",
+      "traction_score": 62.09,
       "meta": {
-        "hn_id": 47851077,
-        "points": 159,
-        "num_comments": 80,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "7119bd214345",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Show HN: GoModel – an open-source AI gateway in Go",
-      "summary": "Hi, I’m Jakub, a solo founder based in Warsaw. I’ve been building GoModel since December with a couple of contributors. It's an open-source AI gateway that sits between your app and model providers like OpenAI, Anthropic or others. I built it for my startup to solve a few problems: - track AI usage ",
-      "url": "https://github.com/ENTERPILOT/GOModel/",
-      "author": "santiago-pl",
-      "date": "2026-04-21T14:11:53+00:00",
-      "traction_score": 57.54,
-      "meta": {
-        "hn_id": 47849097,
-        "points": 193,
-        "num_comments": 71,
+        "hn_id": 47862230,
+        "points": 101,
+        "num_comments": 85,
         "story_type": "story"
       }
     },
@@ -1698,29 +915,148 @@
       "url": "https://www.theguardian.com/us-news/2026/apr/22/us-libraries-banned-books",
       "author": "vinni2",
       "date": "2026-04-22T20:37:21+00:00",
-      "traction_score": 57.53,
+      "traction_score": 62.08,
       "meta": {
         "hn_id": 47868991,
-        "points": 13,
-        "num_comments": 7,
+        "points": 42,
+        "num_comments": 30,
         "story_type": "story"
       }
     },
     {
-      "id": "83fe3eb0e5b1",
+      "id": "835aba54dbd1",
       "source": "youtube",
       "type": "video",
-      "title": "AI Machine Learning Engineer Full Course 2026 | AI And Machine Learning Tutorial | Simplilearn",
-      "summary": "Microsoft AI Engineer Program ...",
-      "url": "https://www.youtube.com/watch?v=Q7vlEb3ctn8",
-      "author": "Simplilearn",
-      "date": "2026-04-22T21:44:33.571936+00:00",
-      "traction_score": 57.53,
+      "title": "Google to Release New AI Chips, Challenging Nvidia | Bloomberg Tech 4/20/2026",
+      "summary": "Bloomberg's Caroline Hyde and Ed Ludlow discuss Google's plans for new AI chips focused on inference. Plus, Blue Origin ...",
+      "url": "https://www.youtube.com/watch?v=utdN_Qj9O6M",
+      "author": "Bloomberg Technology",
+      "date": "2026-04-23T01:58:10.663383+00:00",
+      "traction_score": 61.93,
       "meta": {
-        "video_id": "Q7vlEb3ctn8",
-        "thumbnail": "https://i.ytimg.com/vi/Q7vlEb3ctn8/mqdefault.jpg",
-        "duration": "23:25:14",
-        "view_count": 2609
+        "video_id": "utdN_Qj9O6M",
+        "thumbnail": "https://i.ytimg.com/vi/utdN_Qj9O6M/mqdefault.jpg",
+        "duration": "44:08",
+        "view_count": 11956
+      }
+    },
+    {
+      "id": "9d52a3c7ad4e",
+      "source": "youtube",
+      "type": "video",
+      "title": "Tech Is Doing Something It Hasn’t Done Since 2000…",
+      "summary": "Save With Bookmap Using This Link ↙️ https://bookmap.com/en/mike-dantonio The Nasdaq just made history with a 16% gain ...",
+      "url": "https://www.youtube.com/watch?v=pmFHX-Wymvc",
+      "author": "StockedUp",
+      "date": "2026-04-23T01:58:10.663408+00:00",
+      "traction_score": 61.88,
+      "meta": {
+        "video_id": "pmFHX-Wymvc",
+        "thumbnail": "https://i.ytimg.com/vi/pmFHX-Wymvc/mqdefault.jpg",
+        "duration": "15:23",
+        "view_count": 11741
+      }
+    },
+    {
+      "id": "071b0c39b00c",
+      "source": "youtube",
+      "type": "video",
+      "title": "Rivian CEO Says $45,000 R2 Option Is Coming Next Year",
+      "summary": "Rivian's new R2 model has begun rolling off the manufacturing floor in Normal, Illinois, despite damage to the factory from a ...",
+      "url": "https://www.youtube.com/watch?v=uwKurgRMlHg",
+      "author": "Bloomberg Technology",
+      "date": "2026-04-23T01:58:10.663441+00:00",
+      "traction_score": 61.36,
+      "meta": {
+        "video_id": "uwKurgRMlHg",
+        "thumbnail": "https://i.ytimg.com/vi/uwKurgRMlHg/mqdefault.jpg",
+        "duration": "8:06",
+        "view_count": 9809
+      }
+    },
+    {
+      "id": "c4dd776aa52c",
+      "source": "youtube",
+      "type": "video",
+      "title": "How AI could impact your life in 2026",
+      "summary": "Price Waterhouse Cooper's Matt Wood talks about trends for artificial intelligence and what you can do to embrace the technology.",
+      "url": "https://www.youtube.com/watch?v=OpAZvUSeNaM",
+      "author": "ABC News",
+      "date": "2026-04-23T01:58:08.853916+00:00",
+      "traction_score": 60.78,
+      "meta": {
+        "video_id": "OpAZvUSeNaM",
+        "thumbnail": "https://i.ytimg.com/vi/OpAZvUSeNaM/mqdefault.jpg",
+        "duration": "4:17",
+        "view_count": 8023
+      }
+    },
+    {
+      "id": "6cf42177ee47",
+      "source": "youtube",
+      "type": "video",
+      "title": "Machine Learning Engineer Full Course 2026 | Machine Learning Tutorial For Beginners | Simplilearn",
+      "summary": "Microsoft AI Engineer Program ...",
+      "url": "https://www.youtube.com/watch?v=53mqteI5TS0",
+      "author": "Simplilearn",
+      "date": "2026-04-23T01:58:12.652313+00:00",
+      "traction_score": 60.67,
+      "meta": {
+        "video_id": "53mqteI5TS0",
+        "thumbnail": "https://i.ytimg.com/vi/53mqteI5TS0/mqdefault.jpg",
+        "duration": "23:26:36",
+        "view_count": 7717
+      }
+    },
+    {
+      "id": "a9778c1976eb",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Tesla admits HW3 owners need upgrades for true 'Full Self-Driving'",
+      "summary": "",
+      "url": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+      "author": "mfiguiere",
+      "date": "2026-04-22T22:50:00+00:00",
+      "traction_score": 60.63,
+      "meta": {
+        "hn_id": 47870314,
+        "points": 27,
+        "num_comments": 16,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "9191adb198fd",
+      "source": "youtube",
+      "type": "video",
+      "title": "Machine Learning Full Course - Learn Machine Learning (2026) | Machine Learning Tutorial | Edureka",
+      "summary": "PGP in Generative AI and ML in collaboration with Illinois Tech: ...",
+      "url": "https://www.youtube.com/watch?v=_WcSO1BE7To",
+      "author": "edureka!",
+      "date": "2026-04-23T01:58:12.652299+00:00",
+      "traction_score": 60.57,
+      "meta": {
+        "video_id": "_WcSO1BE7To",
+        "thumbnail": "https://i.ytimg.com/vi/_WcSO1BE7To/mqdefault.jpg",
+        "duration": "10:51:05",
+        "view_count": 7474
+      }
+    },
+    {
+      "id": "007628b4a312",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Another Day Has Come",
+      "summary": "",
+      "url": "https://daringfireball.net/2026/04/another_day_has_come",
+      "author": "ndr42",
+      "date": "2026-04-21T20:52:19+00:00",
+      "traction_score": 60.29,
+      "meta": {
+        "hn_id": 47854365,
+        "points": 190,
+        "num_comments": 142,
+        "story_type": "story"
       }
     },
     {
@@ -1732,97 +1068,166 @@
       "url": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
       "author": "agronaut",
       "date": "2026-04-22T20:24:05+00:00",
-      "traction_score": 57.49,
+      "traction_score": 60.23,
       "meta": {
         "hn_id": 47868832,
-        "points": 17,
-        "num_comments": 5,
+        "points": 47,
+        "num_comments": 15,
         "story_type": "story"
       }
     },
     {
-      "id": "4727e84dc11c",
-      "source": "youtube",
-      "type": "video",
-      "title": "Tech Weekly: Nvidia pushes back on 'AI bubble', Microsoft celebrates | REUTERS",
-      "summary": "From Nvidia pushing back on a so-called 'AI bubble,' to Microsoft celebrating a big anniversary for its Windows operating system, ...",
-      "url": "https://www.youtube.com/watch?v=GlBeCSW39ZQ",
-      "author": "Reuters",
-      "date": "2026-04-22T21:44:31.331647+00:00",
-      "traction_score": 57.41,
-      "meta": {
-        "video_id": "GlBeCSW39ZQ",
-        "thumbnail": "https://i.ytimg.com/vi/GlBeCSW39ZQ/mqdefault.jpg",
-        "duration": "2:24",
-        "view_count": 2501
-      }
-    },
-    {
-      "id": "6295cd38f90c",
+      "id": "5404a00650ca",
       "source": "hackernews",
       "type": "story",
-      "title": "Apple's New CEO Has a Background in VR, but Is Reportedly Bearish on Vision Pro",
+      "title": "Columnar Storage Is Normalization",
       "summary": "",
-      "url": "https://www.roadtovr.com/apple-new-ceo-bearish-on-vision-pro/",
-      "author": "LorenDB",
-      "date": "2026-04-22T19:05:24+00:00",
-      "traction_score": 57.2,
+      "url": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
+      "author": "ibobev",
+      "date": "2026-04-22T12:30:14+00:00",
+      "traction_score": 59.97,
       "meta": {
-        "hn_id": 47867861,
-        "points": 15,
-        "num_comments": 10,
+        "hn_id": 47862626,
+        "points": 104,
+        "num_comments": 36,
         "story_type": "story"
       }
     },
     {
-      "id": "179faff9c651",
+      "id": "68dc5b223628",
       "source": "hackernews",
       "type": "story",
-      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
-      "summary": "",
-      "url": "https://fsfe.org/news/2026/news-20260420-01.html",
-      "author": "kirschner",
-      "date": "2026-04-21T10:57:53+00:00",
-      "traction_score": 56.94,
+      "title": "You don't need advice from editors on rejected manuscripts",
+      "summary": "https://xcancel.com/orsonscottcard/status/204670229440668075...",
+      "url": "https://twitter.com/orsonscottcard/status/2046702294406680751",
+      "author": "MrBuddyCasino",
+      "date": "2026-04-22T08:25:32+00:00",
+      "traction_score": 59.86,
       "meta": {
-        "hn_id": 47847124,
-        "points": 228,
-        "num_comments": 57,
+        "hn_id": 47860682,
+        "points": 112,
+        "num_comments": 67,
         "story_type": "story"
       }
     },
     {
-      "id": "e9e3f2ac3001",
+      "id": "2a9ac935421e",
       "source": "youtube",
       "type": "video",
-      "title": "Machine Learning With Python Full Course 2026 | Python Machine Learning For Beginners | Simplilearn",
+      "title": "Destroy All Phonorecords - Musk v. Altman, Claude Opus 4.7, & Voyager 1",
+      "summary": "As Anthropic, OpenAI, and industry giants race to outpace each other, data centers and supply chains are straining, while job ...",
+      "url": "https://www.youtube.com/watch?v=SVPA2mqd_R8",
+      "author": "This Week in Tech",
+      "date": "2026-04-23T01:58:10.663397+00:00",
+      "traction_score": 59.79,
+      "meta": {
+        "video_id": "SVPA2mqd_R8",
+        "thumbnail": "https://i.ytimg.com/vi/SVPA2mqd_R8/mqdefault.jpg",
+        "duration": "2:48:41",
+        "view_count": 5706
+      }
+    },
+    {
+      "id": "ce3573d0df6a",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Polymarket weather bet manipulated with a hairdryer",
+      "summary": "",
+      "url": "https://twitter.com/aaronjmars/status/2047017251270734309",
+      "author": "dnw",
+      "date": "2026-04-22T21:43:38+00:00",
+      "traction_score": 59.53,
+      "meta": {
+        "hn_id": 47869664,
+        "points": 36,
+        "num_comments": 11,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "ff392cf53cde",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Show HN: Broccoli, one shot coding agent on the cloud",
+      "summary": "Hi HN — we built Broccoli, an open-source harness for taking coding tasks from Linear, running them in isolated cloud sandboxes, and opening PRs for a human to review. We’re a small team, and our main company supplies voice data. But we kept running into the same problem with coding agents. We’d hav",
+      "url": "https://github.com/besimple-oss/broccoli",
+      "author": "yzhong94",
+      "date": "2026-04-22T16:09:56+00:00",
+      "traction_score": 59.37,
+      "meta": {
+        "hn_id": 47865642,
+        "points": 51,
+        "num_comments": 36,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "1d6b14bd650c",
+      "source": "github",
+      "type": "repo",
+      "title": "tw93/Kami — 👩‍🚒 Good content deserves good paper.",
+      "summary": "👩‍🚒 Good content deserves good paper.",
+      "url": "https://github.com/tw93/Kami",
+      "author": "tw93",
+      "date": "2026-04-20T16:35:19+00:00",
+      "traction_score": 58.96,
+      "meta": {
+        "stars": 2566,
+        "forks": 124,
+        "language": "HTML",
+        "topics": [],
+        "full_name": "tw93/Kami"
+      }
+    },
+    {
+      "id": "8652c2568944",
+      "source": "hackernews",
+      "type": "story",
+      "title": "5x5 Pixel font for tiny screens",
+      "summary": "",
+      "url": "https://maurycyz.com/projects/mcufont/",
+      "author": "zdw",
+      "date": "2026-04-19T15:19:28+00:00",
+      "traction_score": 58.64,
+      "meta": {
+        "hn_id": 47824943,
+        "points": 424,
+        "num_comments": 105,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "83fe3eb0e5b1",
+      "source": "youtube",
+      "type": "video",
+      "title": "AI Machine Learning Engineer Full Course 2026 | AI And Machine Learning Tutorial | Simplilearn",
       "summary": "Microsoft AI Engineer Program ...",
-      "url": "https://www.youtube.com/watch?v=GSyn8HrTY_w",
+      "url": "https://www.youtube.com/watch?v=Q7vlEb3ctn8",
       "author": "Simplilearn",
-      "date": "2026-04-22T21:44:33.572245+00:00",
-      "traction_score": 56.87,
+      "date": "2026-04-23T01:58:12.652070+00:00",
+      "traction_score": 57.66,
       "meta": {
-        "video_id": "GSyn8HrTY_w",
-        "thumbnail": "https://i.ytimg.com/vi/GSyn8HrTY_w/mqdefault.jpg",
-        "duration": "6:22:54",
-        "view_count": 2082
+        "video_id": "Q7vlEb3ctn8",
+        "thumbnail": "https://i.ytimg.com/vi/Q7vlEb3ctn8/mqdefault.jpg",
+        "duration": "23:25:14",
+        "view_count": 2731
       }
     },
     {
-      "id": "2796483d29d3",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Even 'uncensored' models can't say what they want",
-      "summary": "",
-      "url": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
-      "author": "llmmadness",
-      "date": "2026-04-20T22:43:29+00:00",
-      "traction_score": 56.74,
+      "id": "2478fa1911a5",
+      "source": "youtube",
+      "type": "video",
+      "title": "Machine Learning Full Course 2026 [FREE] | Machine Learning Tutorial For Beginners | Simplilearn",
+      "summary": "Microsoft AI Engineer Program ...",
+      "url": "https://www.youtube.com/watch?v=vkaGklIM7k8",
+      "author": "Simplilearn",
+      "date": "2026-04-23T01:58:12.652329+00:00",
+      "traction_score": 57.63,
       "meta": {
-        "hn_id": 47842021,
-        "points": 174,
-        "num_comments": 136,
-        "story_type": "story"
+        "video_id": "vkaGklIM7k8",
+        "thumbnail": "https://i.ytimg.com/vi/vkaGklIM7k8/mqdefault.jpg",
+        "duration": "11:55:00",
+        "view_count": 2701
       }
     },
     {
@@ -1834,10 +1239,10 @@
       "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
       "author": "EvoLinkAI",
       "date": "2026-04-18T11:22:14+00:00",
-      "traction_score": 56.6,
+      "traction_score": 57.11,
       "meta": {
-        "stars": 1674,
-        "forks": 142,
+        "stars": 1783,
+        "forks": 156,
         "language": "Python",
         "topics": [
           "ai-art",
@@ -1850,141 +1255,54 @@
       }
     },
     {
-      "id": "ad8360efc1b3",
+      "id": "e9e3f2ac3001",
       "source": "youtube",
       "type": "video",
-      "title": "Google Cloud Next 2026: Breaking News on the Future of AI Agents, Cloud Innovation",
-      "summary": "This episode covers the latest updates from Google Cloud Next, focusing on AI advancements like the Gemini Enterprise Agent ...",
-      "url": "https://www.youtube.com/watch?v=aL4M6MaAXuQ",
-      "author": "Eye on Tech",
-      "date": "2026-04-22T21:44:28.886192+00:00",
-      "traction_score": 56.46,
+      "title": "Machine Learning With Python Full Course 2026 | Python Machine Learning For Beginners | Simplilearn",
+      "summary": "Microsoft AI Engineer Program ...",
+      "url": "https://www.youtube.com/watch?v=GSyn8HrTY_w",
+      "author": "Simplilearn",
+      "date": "2026-04-23T01:58:12.652336+00:00",
+      "traction_score": 56.91,
       "meta": {
-        "video_id": "aL4M6MaAXuQ",
-        "thumbnail": "https://i.ytimg.com/vi/aL4M6MaAXuQ/mqdefault.jpg",
-        "duration": "11:51",
-        "view_count": 1804
+        "video_id": "GSyn8HrTY_w",
+        "thumbnail": "https://i.ytimg.com/vi/GSyn8HrTY_w/mqdefault.jpg",
+        "duration": "6:22:54",
+        "view_count": 2107
       }
     },
     {
-      "id": "c1bc1f4f40e6",
+      "id": "609e0ff9fe9e",
       "source": "hackernews",
       "type": "story",
-      "title": "Maryland to become first state to ban 'dynamic pricing' in grocery stores",
+      "title": "Approximating Hyperbolic Tangent",
       "summary": "",
-      "url": "https://www.yahoo.com/news/articles/maryland-become-first-state-ban-150854726.html",
-      "author": "jonbaer",
-      "date": "2026-04-22T18:42:59+00:00",
-      "traction_score": 56.3,
+      "url": "https://jtomschroeder.com/blog/approximating-tanh/",
+      "author": "jtomschroeder",
+      "date": "2026-04-22T23:46:38+00:00",
+      "traction_score": 56.51,
       "meta": {
-        "hn_id": 47867579,
-        "points": 24,
+        "hn_id": 47870709,
+        "points": 20,
         "num_comments": 4,
         "story_type": "story"
       }
     },
     {
-      "id": "e0baa24cd56a",
+      "id": "06ef87df28a2",
       "source": "hackernews",
       "type": "story",
-      "title": "Monero Community Crowdfunding System",
+      "title": "The Neon King of New Orleans",
       "summary": "",
-      "url": "https://ccs.getmonero.org/ideas/",
-      "author": "OsrsNeedsf2P",
-      "date": "2026-04-20T21:33:15+00:00",
-      "traction_score": 56.21,
+      "url": "https://gardenandgun.com/new-orleans-neon-king",
+      "author": "renameme",
+      "date": "2026-04-22T21:26:38+00:00",
+      "traction_score": 55.71,
       "meta": {
-        "hn_id": 47841149,
-        "points": 159,
-        "num_comments": 136,
+        "hn_id": 47869496,
+        "points": 31,
+        "num_comments": 4,
         "story_type": "story"
-      }
-    },
-    {
-      "id": "9c9e2b648044",
-      "source": "hackernews",
-      "type": "story",
-      "title": "ReMarkable firing up to 40% of their workforce",
-      "summary": "",
-      "url": "https://e24.no/naeringsliv/i/ExboXl/remarkable-kutter-opptil-200-ansatte",
-      "author": "davisr",
-      "date": "2026-04-22T18:12:03+00:00",
-      "traction_score": 56.08,
-      "meta": {
-        "hn_id": 47867176,
-        "points": 23,
-        "num_comments": 5,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "8652c2568944",
-      "source": "hackernews",
-      "type": "story",
-      "title": "5x5 Pixel font for tiny screens",
-      "summary": "",
-      "url": "https://maurycyz.com/projects/mcufont/",
-      "author": "zdw",
-      "date": "2026-04-19T15:19:28+00:00",
-      "traction_score": 56.06,
-      "meta": {
-        "hn_id": 47824943,
-        "points": 301,
-        "num_comments": 76,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "60a31f7d1d11",
-      "source": "github",
-      "type": "repo",
-      "title": "wbh604/UZI-Skill — 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "summary": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股",
-      "url": "https://github.com/wbh604/UZI-Skill",
-      "author": "wbh604",
-      "date": "2026-04-16T07:36:06+00:00",
-      "traction_score": 55.82,
-      "meta": {
-        "stars": 1155,
-        "forks": 199,
-        "language": "Python",
-        "topics": [],
-        "full_name": "wbh604/UZI-Skill"
-      }
-    },
-    {
-      "id": "a4eb046ac997",
-      "source": "hackernews",
-      "type": "story",
-      "title": "How to make a fast dynamic language interpreter",
-      "summary": "",
-      "url": "https://zef-lang.dev/implementation",
-      "author": "pizlonator",
-      "date": "2026-04-21T00:48:07+00:00",
-      "traction_score": 55.8,
-      "meta": {
-        "hn_id": 47843194,
-        "points": 246,
-        "num_comments": 57,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "6e561ec2b5e9",
-      "source": "github",
-      "type": "repo",
-      "title": "cathrynlavery/diagram-design — Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "summary": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "author": "cathrynlavery",
-      "date": "2026-04-16T18:01:16+00:00",
-      "traction_score": 55.57,
-      "meta": {
-        "stars": 1582,
-        "forks": 107,
-        "language": "HTML",
-        "topics": [],
-        "full_name": "cathrynlavery/diagram-design"
       }
     },
     {
@@ -1995,13 +1313,13 @@
       "summary": "In this video, \"OpenProject vs Redmine | Which is the Best Open Source Project Management App?\", I'll walk you through an epic ...",
       "url": "https://www.youtube.com/watch?v=v4oQvgwq4JM",
       "author": "HowToHarbor",
-      "date": "2026-04-22T21:44:35.432557+00:00",
+      "date": "2026-04-23T01:58:14.407875+00:00",
       "traction_score": 55.53,
       "meta": {
         "video_id": "v4oQvgwq4JM",
         "thumbnail": "https://i.ytimg.com/vi/v4oQvgwq4JM/mqdefault.jpg",
         "duration": "5:00",
-        "view_count": 1307
+        "view_count": 1309
       }
     },
     {
@@ -2012,7 +1330,7 @@
       "summary": "From a potential smartphone comeback for Amazon to OpenAI's big offer, we round up the biggest tech stories of the week. #News ...",
       "url": "https://www.youtube.com/watch?v=efQV8HzW5w8",
       "author": "Reuters",
-      "date": "2026-04-22T21:44:31.331657+00:00",
+      "date": "2026-04-23T01:58:10.663426+00:00",
       "traction_score": 55.47,
       "meta": {
         "video_id": "efQV8HzW5w8",
@@ -2022,20 +1340,27 @@
       }
     },
     {
-      "id": "29e44dc3e653",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
-      "summary": "",
-      "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-      "author": "1659447091",
-      "date": "2026-04-21T05:27:35+00:00",
-      "traction_score": 55.29,
+      "id": "4d638849bcb7",
+      "source": "github",
+      "type": "repo",
+      "title": "bwjoke/BTC-Trading-Since-2020 — Public BTC trading context since 2020.",
+      "summary": "Public BTC trading context since 2020.",
+      "url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
+      "author": "bwjoke",
+      "date": "2026-04-17T19:18:03+00:00",
+      "traction_score": 55.28,
       "meta": {
-        "hn_id": 47844890,
-        "points": 143,
-        "num_comments": 90,
-        "story_type": "story"
+        "stars": 819,
+        "forks": 284,
+        "language": null,
+        "topics": [
+          "bitcoin",
+          "bitmex",
+          "crypto",
+          "dataset",
+          "open-intelligence"
+        ],
+        "full_name": "bwjoke/BTC-Trading-Since-2020"
       }
     },
     {
@@ -2047,10 +1372,10 @@
       "url": "https://github.com/VoltAgent/awesome-claude-design",
       "author": "VoltAgent",
       "date": "2026-04-18T06:40:04+00:00",
-      "traction_score": 54.79,
+      "traction_score": 54.91,
       "meta": {
-        "stars": 1184,
-        "forks": 127,
+        "stars": 1213,
+        "forks": 128,
         "language": null,
         "topics": [
           "claude-code",
@@ -2063,79 +1388,6 @@
       }
     },
     {
-      "id": "8e02820e7c33",
-      "source": "hackernews",
-      "type": "story",
-      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
-      "summary": "",
-      "url": "https://codemix.com/graph",
-      "author": "phpnode",
-      "date": "2026-04-21T10:33:24+00:00",
-      "traction_score": 54.52,
-      "meta": {
-        "hn_id": 47846946,
-        "points": 162,
-        "num_comments": 45,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "7bc5552a3c40",
-      "source": "hackernews",
-      "type": "story",
-      "title": "The Beauty of Bonsai Styles",
-      "summary": "",
-      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "author": "lagniappe",
-      "date": "2026-04-21T04:31:30+00:00",
-      "traction_score": 54.46,
-      "meta": {
-        "hn_id": 47844539,
-        "points": 213,
-        "num_comments": 40,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "705c451a7e95",
-      "source": "github",
-      "type": "repo",
-      "title": "432539/gpt2api — 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
-      "summary": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
-      "url": "https://github.com/432539/gpt2api",
-      "author": "432539",
-      "date": "2026-04-18T06:02:44+00:00",
-      "traction_score": 54.25,
-      "meta": {
-        "stars": 786,
-        "forks": 204,
-        "language": "Go",
-        "topics": [
-          "chatgpt",
-          "gpt-image-2",
-          "openai"
-        ],
-        "full_name": "432539/gpt2api"
-      }
-    },
-    {
-      "id": "6018ca6c4dcc",
-      "source": "youtube",
-      "type": "video",
-      "title": "[CYBER] Steal a Brainrot Uncopylocked | Roblox Studio Easy Tutorial",
-      "summary": "uncopylockedrobloxgames #robloxgamecopier #howtocopyrobloxgames #uncopylockedrobloxgames #robloxgamecopier ...",
-      "url": "https://www.youtube.com/watch?v=vTeCNyr-mJo",
-      "author": "wandigan",
-      "date": "2026-04-22T21:44:37.359539+00:00",
-      "traction_score": 54.15,
-      "meta": {
-        "video_id": "vTeCNyr-mJo",
-        "thumbnail": "https://i.ytimg.com/vi/vTeCNyr-mJo/mqdefault.jpg",
-        "duration": "1:08",
-        "view_count": 811
-      }
-    },
-    {
       "id": "2ca7c9588c07",
       "source": "github",
       "type": "repo",
@@ -2144,10 +1396,10 @@
       "url": "https://github.com/OpenCoworkAI/open-codesign",
       "author": "OpenCoworkAI",
       "date": "2026-04-18T03:14:33+00:00",
-      "traction_score": 54.05,
+      "traction_score": 54.43,
       "meta": {
-        "stars": 1183,
-        "forks": 96,
+        "stars": 1278,
+        "forks": 98,
         "language": "TypeScript",
         "topics": [
           "ai-design",
@@ -2167,13 +1419,52 @@
       "summary": "Microsoft AI Engineer Program ...",
       "url": "https://www.youtube.com/watch?v=SFPrbd4q_08",
       "author": "Simplilearn",
-      "date": "2026-04-22T21:44:33.571986+00:00",
-      "traction_score": 53.94,
+      "date": "2026-04-23T01:58:12.652343+00:00",
+      "traction_score": 54.37,
       "meta": {
         "video_id": "SFPrbd4q_08",
         "thumbnail": "https://i.ytimg.com/vi/SFPrbd4q_08/mqdefault.jpg",
         "duration": "7:03:36",
-        "view_count": 755
+        "view_count": 877
+      }
+    },
+    {
+      "id": "705c451a7e95",
+      "source": "github",
+      "type": "repo",
+      "title": "432539/gpt2api — 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+      "summary": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+      "url": "https://github.com/432539/gpt2api",
+      "author": "432539",
+      "date": "2026-04-18T06:02:44+00:00",
+      "traction_score": 54.34,
+      "meta": {
+        "stars": 801,
+        "forks": 205,
+        "language": "Go",
+        "topics": [
+          "chatgpt",
+          "gpt-image-2",
+          "openai"
+        ],
+        "full_name": "432539/gpt2api"
+      }
+    },
+    {
+      "id": "db9c94f97201",
+      "source": "youtube",
+      "type": "video",
+      "title": "Next '26: The Future of AI Infrastructure",
+      "summary": "Amin Vahdat SVP, Google Chief Technologist AI & Infrastructure, shares an inside look into the infrastructure powering the agentic ...",
+      "url": "https://www.youtube.com/watch?v=PJQPMv8TqLA",
+      "author": "Google Cloud",
+      "date": "2026-04-23T01:58:08.853725+00:00",
+      "traction_score": 54.2,
+      "meta": {
+        "video_id": "PJQPMv8TqLA",
+        "thumbnail": "https://i.ytimg.com/vi/PJQPMv8TqLA/mqdefault.jpg",
+        "duration": "32:54",
+        "view_count": 825
       }
     },
     {
@@ -2185,82 +1476,81 @@
       "url": "https://github.com/golbin/hop",
       "author": "golbin",
       "date": "2026-04-19T10:49:46+00:00",
-      "traction_score": 53.87,
+      "traction_score": 54.1,
       "meta": {
-        "stars": 792,
-        "forks": 163,
+        "stars": 820,
+        "forks": 171,
         "language": "TypeScript",
         "topics": [],
         "full_name": "golbin/hop"
       }
     },
     {
-      "id": "e2f570f3ded6",
-      "source": "github",
-      "type": "repo",
-      "title": "jackwener/wx-cli — WeChat local data CLI with daemon architecture",
-      "summary": "WeChat local data CLI with daemon architecture",
-      "url": "https://github.com/jackwener/wx-cli",
-      "author": "jackwener",
-      "date": "2026-04-16T01:08:18+00:00",
-      "traction_score": 53.87,
-      "meta": {
-        "stars": 476,
-        "forks": 409,
-        "language": "Rust",
-        "topics": [],
-        "full_name": "jackwener/wx-cli"
-      }
-    },
-    {
-      "id": "dc5353e20ad9",
+      "id": "cd7ca8061ef0",
       "source": "hackernews",
       "type": "story",
-      "title": "Louis Zocchi, games industry pioneer, has died",
+      "title": "Tesla basically cooked the books to show one last quarter of positive cash flow",
       "summary": "",
-      "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-      "author": "sgbeal",
-      "date": "2026-04-21T06:19:15+00:00",
-      "traction_score": 53.22,
+      "url": "https://twitter.com/FredLambert/status/2047089101460099581",
+      "author": "doener",
+      "date": "2026-04-23T00:00:36+00:00",
+      "traction_score": 53.84,
       "meta": {
-        "hn_id": 47845231,
-        "points": 128,
-        "num_comments": 53,
+        "hn_id": 47870794,
+        "points": 12,
+        "num_comments": 3,
         "story_type": "story"
       }
     },
     {
-      "id": "be45fa160660",
+      "id": "8b24ca87cda9",
       "source": "hackernews",
       "type": "story",
-      "title": "Homegrown – An interactive map of every 2025 FBS college football player",
+      "title": "Bring your own Agent to MS Teams",
       "summary": "",
-      "url": "https://torch.football/homegrown",
-      "author": "brockbedard",
-      "date": "2026-04-22T16:52:43+00:00",
-      "traction_score": 52.97,
+      "url": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+      "author": "umangsehgal93",
+      "date": "2026-04-22T22:25:28+00:00",
+      "traction_score": 53.58,
       "meta": {
-        "hn_id": 47866153,
-        "points": 13,
-        "num_comments": 7,
+        "hn_id": 47870108,
+        "points": 15,
+        "num_comments": 4,
         "story_type": "story"
       }
     },
     {
-      "id": "a18494b3434f",
+      "id": "beda8bc6efd5",
+      "source": "hackernews",
+      "type": "story",
+      "title": "What killed the Florida orange?",
+      "summary": "https://slate.com/business/2026/04/florida-state-orange-food...",
+      "url": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
+      "author": "danso",
+      "date": "2026-04-20T21:00:43+00:00",
+      "traction_score": 53.43,
+      "meta": {
+        "hn_id": 47840618,
+        "points": 114,
+        "num_comments": 104,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "51af6545842b",
       "source": "youtube",
       "type": "video",
-      "title": "AI scams are getting scary good | Rich on Tech Weekly",
-      "summary": "Online scams are costing Americans $21 billion as AI tools and crypto schemes fuel record fraud losses. Also this week: Samsung ...",
-      "url": "https://www.youtube.com/watch?v=YD4GlCS2FVs",
-      "author": "KTLA 5",
-      "date": "2026-04-22T21:44:31.331597+00:00",
-      "traction_score": 52.77,
+      "title": "🤖 Azure Machine Learning COMPLETE Tutorial: End-to-End ML Workflow + Demo",
+      "summary": "Want to build, train, and deploy machine learning models in Azure? This step-by-step tutorial walks you through the complete ...",
+      "url": "https://www.youtube.com/watch?v=NYrfnGUl_yg",
+      "author": "CyberLearn HQ",
+      "date": "2026-04-23T01:58:12.652321+00:00",
+      "traction_score": 53.43,
       "meta": {
-        "video_id": "YD4GlCS2FVs",
-        "thumbnail": "https://i.ytimg.com/vi/YD4GlCS2FVs/mqdefault.jpg",
-        "duration": "21:03",
-        "view_count": 503
+        "video_id": "NYrfnGUl_yg",
+        "thumbnail": "https://i.ytimg.com/vi/NYrfnGUl_yg/mqdefault.jpg",
+        "duration": "29:12",
+        "view_count": 632
       }
     },
     {
@@ -2272,13 +1562,30 @@
       "url": "https://github.com/the-hidden-fish/advisor-ledger",
       "author": "the-hidden-fish",
       "date": "2026-04-19T21:58:46+00:00",
-      "traction_score": 52.48,
+      "traction_score": 52.78,
       "meta": {
-        "stars": 833,
-        "forks": 82,
+        "stars": 885,
+        "forks": 86,
         "language": "Python",
         "topics": [],
         "full_name": "the-hidden-fish/advisor-ledger"
+      }
+    },
+    {
+      "id": "844347fd9f5f",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Olive CSS: Lisp powered vanilla CSS utility-Class A la Tailwind",
+      "summary": "",
+      "url": "https://codeberg.org/jjba23/olive-css",
+      "author": "jjba23",
+      "date": "2026-04-22T20:50:21+00:00",
+      "traction_score": 52.33,
+      "meta": {
+        "hn_id": 47869130,
+        "points": 12,
+        "num_comments": 7,
+        "story_type": "story"
       }
     },
     {
@@ -2290,28 +1597,45 @@
       "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
       "author": "zknill",
       "date": "2026-04-20T11:18:57+00:00",
-      "traction_score": 52.02,
+      "traction_score": 52.13,
       "meta": {
         "hn_id": 47832720,
-        "points": 116,
-        "num_comments": 72,
+        "points": 120,
+        "num_comments": 75,
         "story_type": "story"
       }
     },
     {
-      "id": "aea07ff0adf7",
+      "id": "a78f3a68b1e3",
       "source": "hackernews",
       "type": "story",
-      "title": "Ars Technica newsroom AI policy",
+      "title": "Kalshi suspends 3 US congressional candidates for 'political insider trading'",
       "summary": "",
-      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "author": "LorenDB",
-      "date": "2026-04-22T20:52:04+00:00",
-      "traction_score": 51.33,
+      "url": "https://www.reuters.com/world/us/kalshi-suspends-three-us-congressional-candidates-political-insider-trading-2026-04-22/",
+      "author": "alephnerd",
+      "date": "2026-04-22T23:20:25+00:00",
+      "traction_score": 52.02,
       "meta": {
-        "hn_id": 47869145,
-        "points": 8,
+        "hn_id": 47870520,
+        "points": 16,
         "num_comments": 1,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "a4f82a16881e",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Bodega cats of New York",
+      "summary": "",
+      "url": "https://bodegacatsofnewyork.com",
+      "author": "zdw",
+      "date": "2026-04-18T02:26:57+00:00",
+      "traction_score": 51.89,
+      "meta": {
+        "hn_id": 47812649,
+        "points": 156,
+        "num_comments": 58,
         "story_type": "story"
       }
     },
@@ -2324,10 +1648,10 @@
       "url": "https://github.com/basketikun/chatgpt2api",
       "author": "basketikun",
       "date": "2026-04-19T14:53:01+00:00",
-      "traction_score": 51.24,
+      "traction_score": 51.49,
       "meta": {
-        "stars": 469,
-        "forks": 139,
+        "stars": 491,
+        "forks": 145,
         "language": "TypeScript",
         "topics": [],
         "full_name": "basketikun/chatgpt2api"
@@ -2342,31 +1666,13 @@
       "url": "https://github.com/masterking32/MasterHttpRelayVPN",
       "author": "masterking32",
       "date": "2026-04-20T10:32:26+00:00",
-      "traction_score": 51.03,
+      "traction_score": 51.17,
       "meta": {
-        "stars": 665,
-        "forks": 58,
+        "stars": 688,
+        "forks": 62,
         "language": "Python",
         "topics": [],
         "full_name": "masterking32/MasterHttpRelayVPN"
-      }
-    },
-    {
-      "id": "ecf9954fda08",
-      "source": "github",
-      "type": "repo",
-      "title": "zhuyansen/wx-favorites-report — 微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线",
-      "summary": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线",
-      "url": "https://github.com/zhuyansen/wx-favorites-report",
-      "author": "zhuyansen",
-      "date": "2026-04-16T02:58:42+00:00",
-      "traction_score": 51.0,
-      "meta": {
-        "stars": 537,
-        "forks": 112,
-        "language": "Python",
-        "topics": [],
-        "full_name": "zhuyansen/wx-favorites-report"
       }
     },
     {
@@ -2377,7 +1683,7 @@
       "summary": "In this video, we compare OpenProject vs Redmine to help you decide which open-source project management app is the best ...",
       "url": "https://www.youtube.com/watch?v=BFY7WXuoV9I",
       "author": "HowToCado",
-      "date": "2026-04-22T21:44:35.432657+00:00",
+      "date": "2026-04-23T01:58:14.407963+00:00",
       "traction_score": 50.93,
       "meta": {
         "video_id": "BFY7WXuoV9I",
@@ -2395,81 +1701,13 @@
       "url": "https://github.com/AERT-7Y/kiro-auto",
       "author": "AERT-7Y",
       "date": "2026-04-18T06:27:50+00:00",
-      "traction_score": 50.82,
+      "traction_score": 50.84,
       "meta": {
-        "stars": 457,
+        "stars": 460,
         "forks": 135,
         "language": "TypeScript",
         "topics": [],
         "full_name": "AERT-7Y/kiro-auto"
-      }
-    },
-    {
-      "id": "aa19e90dcf00",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Garbage Collection Without Unsafe Code",
-      "summary": "",
-      "url": "https://fitzgen.com/2024/02/06/safe-gc.html",
-      "author": "foota",
-      "date": "2026-04-19T04:41:59+00:00",
-      "traction_score": 50.66,
-      "meta": {
-        "hn_id": 47821853,
-        "points": 107,
-        "num_comments": 66,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "a4f82a16881e",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Bodega cats of New York",
-      "summary": "",
-      "url": "https://bodegacatsofnewyork.com",
-      "author": "zdw",
-      "date": "2026-04-18T02:26:57+00:00",
-      "traction_score": 50.45,
-      "meta": {
-        "hn_id": 47812649,
-        "points": 130,
-        "num_comments": 48,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "844347fd9f5f",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Olive CSS: Lisp powered vanilla CSS utility-Class A la Tailwind",
-      "summary": "",
-      "url": "https://codeberg.org/jjba23/olive-css",
-      "author": "jjba23",
-      "date": "2026-04-22T20:50:21+00:00",
-      "traction_score": 50.11,
-      "meta": {
-        "hn_id": 47869130,
-        "points": 6,
-        "num_comments": 1,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "24f223eb1bce",
-      "source": "hackernews",
-      "type": "story",
-      "title": "The Story of Mel",
-      "summary": "",
-      "url": "http://www.catb.org/jargon/html/story-of-mel.html",
-      "author": "softwaredoug",
-      "date": "2026-04-22T20:25:01+00:00",
-      "traction_score": 49.84,
-      "meta": {
-        "hn_id": 47868844,
-        "points": 11,
-        "num_comments": 0,
-        "story_type": "story"
       }
     },
     {
@@ -2481,30 +1719,13 @@
       "url": "https://github.com/OranAi-Ltd/oransim",
       "author": "OranAi-Ltd",
       "date": "2026-04-18T16:40:44+00:00",
-      "traction_score": 49.8,
+      "traction_score": 50.31,
       "meta": {
-        "stars": 531,
-        "forks": 70,
+        "stars": 562,
+        "forks": 78,
         "language": "Python",
         "topics": [],
         "full_name": "OranAi-Ltd/oransim"
-      }
-    },
-    {
-      "id": "6b16683de21b",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Failed Companies Are Selling Old Slack Chats and Email Archives to Train AI",
-      "summary": "",
-      "url": "https://gizmodo.com/failed-companies-are-selling-old-slack-chats-and-email-archives-to-train-ai-2000747916",
-      "author": "CGMthrowaway",
-      "date": "2026-04-22T21:03:42+00:00",
-      "traction_score": 49.7,
-      "meta": {
-        "hn_id": 47869253,
-        "points": 5,
-        "num_comments": 1,
-        "story_type": "story"
       }
     },
     {
@@ -2516,10 +1737,10 @@
       "url": "https://github.com/cosmicstack-labs/mercury-agent",
       "author": "cosmicstack-labs",
       "date": "2026-04-20T12:46:31+00:00",
-      "traction_score": 49.58,
+      "traction_score": 49.83,
       "meta": {
-        "stars": 450,
-        "forks": 61,
+        "stars": 485,
+        "forks": 64,
         "language": "TypeScript",
         "topics": [
           "ai-agent",
@@ -2527,6 +1748,41 @@
           "llm"
         ],
         "full_name": "cosmicstack-labs/mercury-agent"
+      }
+    },
+    {
+      "id": "416e8ad7c4db",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Show HN: Ghost Pepper Meet local meeting transcription and diarization",
+      "summary": "100% local & private transcription engine for macOS. Captures & does speaker diarization. Originally was building as its own app, but can leverage same local models from my original push-to-talk voice transcription product so combined them into one app.",
+      "url": "https://matthartman.github.io/ghost-pepper/",
+      "author": "MattHart88",
+      "date": "2026-04-22T19:19:58+00:00",
+      "traction_score": 49.81,
+      "meta": {
+        "hn_id": 47868032,
+        "points": 16,
+        "num_comments": 3,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "65b3e389c361",
+      "source": "github",
+      "type": "repo",
+      "title": "leigest519/OpenGame — OpenGame: Open Agentic Coding for Games",
+      "summary": "OpenGame: Open Agentic Coding for Games",
+      "url": "https://github.com/leigest519/OpenGame",
+      "author": "leigest519",
+      "date": "2026-04-20T15:28:16+00:00",
+      "traction_score": 48.34,
+      "meta": {
+        "stars": 436,
+        "forks": 41,
+        "language": "TypeScript",
+        "topics": [],
+        "full_name": "leigest519/OpenGame"
       }
     },
     {
@@ -2556,9 +1812,9 @@
       "url": "https://github.com/Ademking/MD-This-Page",
       "author": "Ademking",
       "date": "2026-04-17T06:42:43+00:00",
-      "traction_score": 47.93,
+      "traction_score": 47.97,
       "meta": {
-        "stars": 496,
+        "stars": 501,
         "forks": 39,
         "language": "TypeScript",
         "topics": [
@@ -2570,54 +1826,53 @@
       }
     },
     {
-      "id": "65b3e389c361",
-      "source": "github",
-      "type": "repo",
-      "title": "leigest519/OpenGame — OpenGame: Open Agentic Coding for Games",
-      "summary": "OpenGame: Open Agentic Coding for Games",
-      "url": "https://github.com/leigest519/OpenGame",
-      "author": "leigest519",
-      "date": "2026-04-20T15:28:16+00:00",
-      "traction_score": 47.59,
-      "meta": {
-        "stars": 388,
-        "forks": 34,
-        "language": "TypeScript",
-        "topics": [],
-        "full_name": "leigest519/OpenGame"
-      }
-    },
-    {
-      "id": "dcac5a31e520",
+      "id": "0fb88f51f7a0",
       "source": "hackernews",
       "type": "story",
-      "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
-      "summary": "https://www.nature.com/articles/s41467-026-70656-0",
-      "url": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
+      "title": "Kalshi suspends 3 congressional candidates for wagering on their own elections",
+      "summary": "",
+      "url": "https://apnews.com/article/prediction-markets-kalshi-congress-candidates-elections-betting-37766ee2922615be1bf6fa193dee1f43",
       "author": "geox",
-      "date": "2026-04-21T10:19:49+00:00",
-      "traction_score": 47.18,
+      "date": "2026-04-23T00:33:45+00:00",
+      "traction_score": 47.82,
       "meta": {
-        "hn_id": 47846861,
-        "points": 97,
-        "num_comments": 9,
+        "hn_id": 47871020,
+        "points": 7,
+        "num_comments": 0,
         "story_type": "story"
       }
     },
     {
-      "id": "06ef87df28a2",
+      "id": "ded3512fb137",
       "source": "hackernews",
       "type": "story",
-      "title": "The Neon King of New Orleans",
+      "title": "Musicians are manufacturing sold-out shows",
       "summary": "",
-      "url": "https://gardenandgun.com/new-orleans-neon-king",
-      "author": "renameme",
-      "date": "2026-04-22T21:26:38+00:00",
-      "traction_score": 47.15,
+      "url": "https://www.bloomberg.com/news/articles/2026-04-17/how-bands-like-cameron-winter-s-geese-are-manufacturing-sold-out-shows",
+      "author": "helsinkiandrew",
+      "date": "2026-04-19T09:23:27+00:00",
+      "traction_score": 47.59,
       "meta": {
-        "hn_id": 47869496,
+        "hn_id": 47822968,
+        "points": 54,
+        "num_comments": 68,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "034cf611fc19",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Show HN: Algorithmic String Art, accessible to all",
+      "summary": "",
+      "url": "https://string-loom.pages.dev",
+      "author": "s_e__a___n",
+      "date": "2026-04-22T23:06:58+00:00",
+      "traction_score": 47.3,
+      "meta": {
+        "hn_id": 47870432,
         "points": 4,
-        "num_comments": 0,
+        "num_comments": 2,
         "story_type": "story"
       }
     },
@@ -2630,29 +1885,82 @@
       "url": "https://github.com/google-deepmind/mujoco",
       "author": "modinfo",
       "date": "2026-04-19T00:34:11+00:00",
-      "traction_score": 47.1,
+      "traction_score": 47.26,
       "meta": {
         "hn_id": 47820791,
-        "points": 105,
-        "num_comments": 22,
+        "points": 106,
+        "num_comments": 23,
         "story_type": "story"
       }
     },
     {
-      "id": "5f1b83bc0869",
+      "id": "1a9c2b1fc0df",
+      "source": "github",
+      "type": "repo",
+      "title": "MrsEWE44/musicDownload — No description",
+      "summary": "",
+      "url": "https://github.com/MrsEWE44/musicDownload",
+      "author": "MrsEWE44",
+      "date": "2026-04-19T07:04:43+00:00",
+      "traction_score": 46.84,
+      "meta": {
+        "stars": 340,
+        "forks": 46,
+        "language": "Python",
+        "topics": [],
+        "full_name": "MrsEWE44/musicDownload"
+      }
+    },
+    {
+      "id": "c7b195ff316a",
       "source": "hackernews",
       "type": "story",
-      "title": "F-35s Quarterbacking Drones Seen as Gateway to USMC's 6th Gen Fighter",
+      "title": "How I Use Unspent Tokens",
       "summary": "",
-      "url": "https://www.twz.com/air/f-35s-quarterbacking-drones-seen-as-gateway-to-usmcs-6th-gen-fighter",
-      "author": "breve",
-      "date": "2026-04-22T21:36:02+00:00",
-      "traction_score": 46.32,
+      "url": "https://artisincode.com/essays/how-i-use-unspent-tokens/",
+      "author": "parentheses",
+      "date": "2026-04-22T20:34:00+00:00",
+      "traction_score": 46.8,
       "meta": {
-        "hn_id": 47869584,
-        "points": 3,
-        "num_comments": 0,
+        "hn_id": 47868955,
+        "points": 10,
+        "num_comments": 1,
         "story_type": "story"
+      }
+    },
+    {
+      "id": "2d48514009fe",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Books are not too expensive",
+      "summary": "",
+      "url": "https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive",
+      "author": "herbertl",
+      "date": "2026-04-20T15:22:08+00:00",
+      "traction_score": 45.99,
+      "meta": {
+        "hn_id": 47835647,
+        "points": 41,
+        "num_comments": 49,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "e63ea8482b49",
+      "source": "github",
+      "type": "repo",
+      "title": "openai/privacy-filter — OpenAI Privacy Filter",
+      "summary": "OpenAI Privacy Filter",
+      "url": "https://github.com/openai/privacy-filter",
+      "author": "openai",
+      "date": "2026-04-17T22:49:09+00:00",
+      "traction_score": 45.96,
+      "meta": {
+        "stars": 428,
+        "forks": 23,
+        "language": "Python",
+        "topics": [],
+        "full_name": "openai/privacy-filter"
       }
     },
     {
@@ -2664,10 +1972,10 @@
       "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
       "author": "therealaleph",
       "date": "2026-04-21T14:46:31+00:00",
-      "traction_score": 46.12,
+      "traction_score": 45.61,
       "meta": {
-        "stars": 236,
-        "forks": 13,
+        "stars": 248,
+        "forks": 14,
         "language": "Rust",
         "topics": [
           "anti-censorship",
@@ -2680,40 +1988,6 @@
       }
     },
     {
-      "id": "32f6dedd5ddf",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Show HN: Trainly – Free 72-hour audit of your AI agent's production traces",
-      "summary": "",
-      "url": "https://www.trainlyai.com/audit",
-      "author": "kavin_key",
-      "date": "2026-04-22T18:10:28+00:00",
-      "traction_score": 46.0,
-      "meta": {
-        "hn_id": 47867157,
-        "points": 5,
-        "num_comments": 1,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "e139a10383e3",
-      "source": "hackernews",
-      "type": "story",
-      "title": "CATL to launch sodium-ion batteries in EVs in 2026, aiming for 370 miles range",
-      "summary": "",
-      "url": "https://electrek.co/2026/04/22/catl-launching-sodium-ion-batteries-evs-2026/",
-      "author": "breve",
-      "date": "2026-04-22T21:19:19+00:00",
-      "traction_score": 45.93,
-      "meta": {
-        "hn_id": 47869427,
-        "points": 3,
-        "num_comments": 0,
-        "story_type": "story"
-      }
-    },
-    {
       "id": "6801fb8ed422",
       "source": "github",
       "type": "repo",
@@ -2722,31 +1996,47 @@
       "url": "https://github.com/brexhq/CrabTrap",
       "author": "brexhq",
       "date": "2026-04-17T18:47:45+00:00",
-      "traction_score": 44.7,
+      "traction_score": 44.93,
       "meta": {
-        "stars": 305,
-        "forks": 25,
+        "stars": 315,
+        "forks": 26,
         "language": "Go",
         "topics": [],
         "full_name": "brexhq/CrabTrap"
       }
     },
     {
-      "id": "4a28335239c5",
-      "source": "github",
-      "type": "repo",
-      "title": "fancyai-official/skills — No description",
+      "id": "5af93383a59d",
+      "source": "hackernews",
+      "type": "story",
+      "title": "How Much Caffeine in Coffee Cup?",
       "summary": "",
-      "url": "https://github.com/fancyai-official/skills",
-      "author": "fancyai-official",
-      "date": "2026-04-16T12:22:58+00:00",
-      "traction_score": 43.81,
+      "url": "https://www.researchgate.net/publication/317824932_How_Much_Caffeine_in_Coffee_Cup_Effects_of_Processing_Operations_Extraction_Methods_and_Variables",
+      "author": "rzk",
+      "date": "2026-04-22T23:48:10+00:00",
+      "traction_score": 44.63,
       "meta": {
-        "stars": 363,
-        "forks": 13,
-        "language": "Python",
-        "topics": [],
-        "full_name": "fancyai-official/skills"
+        "hn_id": 47870721,
+        "points": 4,
+        "num_comments": 0,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "e0401b27a32b",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Cljfx: A declarative desktop UI framework in Clojure",
+      "summary": "",
+      "url": "https://github.com/cljfx/cljfx",
+      "author": "marcelox86",
+      "date": "2026-04-22T20:09:21+00:00",
+      "traction_score": 44.14,
+      "meta": {
+        "hn_id": 47868638,
+        "points": 10,
+        "num_comments": 0,
+        "story_type": "story"
       }
     },
     {
@@ -2758,10 +2048,10 @@
       "url": "https://github.com/drasimwagan/mdv",
       "author": "drasimwagan",
       "date": "2026-04-18T14:42:02+00:00",
-      "traction_score": 43.73,
+      "traction_score": 43.95,
       "meta": {
-        "stars": 386,
-        "forks": 11,
+        "stars": 388,
+        "forks": 12,
         "language": "TypeScript",
         "topics": [
           "charts",
@@ -2782,31 +2072,13 @@
       "url": "https://github.com/PiNetwork/SmartContracts",
       "author": "PiNetwork",
       "date": "2026-04-17T01:37:36+00:00",
-      "traction_score": 43.7,
+      "traction_score": 43.76,
       "meta": {
-        "stars": 210,
+        "stars": 213,
         "forks": 32,
         "language": "Rust",
         "topics": [],
         "full_name": "PiNetwork/SmartContracts"
-      }
-    },
-    {
-      "id": "03485adc2630",
-      "source": "github",
-      "type": "repo",
-      "title": "endevco/aube — A fast Node.js package manager",
-      "summary": "A fast Node.js package manager",
-      "url": "https://github.com/endevco/aube",
-      "author": "endevco",
-      "date": "2026-04-18T18:06:49+00:00",
-      "traction_score": 43.07,
-      "meta": {
-        "stars": 369,
-        "forks": 9,
-        "language": "Rust",
-        "topics": [],
-        "full_name": "endevco/aube"
       }
     },
     {
@@ -2818,13 +2090,31 @@
       "url": "https://github.com/injaneity/pi-computer-use",
       "author": "injaneity",
       "date": "2026-04-20T10:18:18+00:00",
-      "traction_score": 43.04,
+      "traction_score": 43.11,
       "meta": {
-        "stars": 264,
-        "forks": 12,
+        "stars": 267,
+        "forks": 13,
         "language": "TypeScript",
         "topics": [],
         "full_name": "injaneity/pi-computer-use"
+      }
+    },
+    {
+      "id": "03485adc2630",
+      "source": "github",
+      "type": "repo",
+      "title": "endevco/aube — A fast Node.js package manager",
+      "summary": "A fast Node.js package manager",
+      "url": "https://github.com/endevco/aube",
+      "author": "endevco",
+      "date": "2026-04-18T18:06:49+00:00",
+      "traction_score": 43.08,
+      "meta": {
+        "stars": 371,
+        "forks": 9,
+        "language": "Rust",
+        "topics": [],
+        "full_name": "endevco/aube"
       }
     },
     {
@@ -2836,9 +2126,9 @@
       "url": "https://github.com/shivampkumar/trellis-mac",
       "author": "shivampkumar",
       "date": "2026-04-19T20:57:30+00:00",
-      "traction_score": 42.72,
+      "traction_score": 42.67,
       "meta": {
-        "stars": 318,
+        "stars": 320,
         "forks": 9,
         "language": "Python",
         "topics": [],
@@ -2846,56 +2136,62 @@
       }
     },
     {
-      "id": "1050c0e33df9",
+      "id": "e2dcfeb00a60",
       "source": "github",
       "type": "repo",
-      "title": "rexa-developer/tiks — Procedural UI sounds for the web. Zero audio files. Pure synthesis.",
-      "summary": "Procedural UI sounds for the web. Zero audio files. Pure synthesis.",
-      "url": "https://github.com/rexa-developer/tiks",
-      "author": "rexa-developer",
-      "date": "2026-04-16T06:06:10+00:00",
-      "traction_score": 41.89,
+      "title": "browser-use/browser-harness-js — Self-healing browser harness that enables LLMs to complete any task",
+      "summary": "Self-healing browser harness that enables LLMs to complete any task",
+      "url": "https://github.com/browser-use/browser-harness-js",
+      "author": "browser-use",
+      "date": "2026-04-18T18:44:16+00:00",
+      "traction_score": 42.03,
       "meta": {
-        "stars": 355,
-        "forks": 6,
+        "stars": 219,
+        "forks": 15,
         "language": "TypeScript",
         "topics": [],
-        "full_name": "rexa-developer/tiks"
+        "full_name": "browser-use/browser-harness-js"
       }
     },
     {
-      "id": "ca04ce2be5b4",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
-      "summary": "",
-      "url": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
-      "author": "pseudolus",
-      "date": "2026-04-19T11:53:31+00:00",
-      "traction_score": 39.94,
-      "meta": {
-        "hn_id": 47823654,
-        "points": 90,
-        "num_comments": 2,
-        "story_type": "story"
-      }
-    },
-    {
-      "id": "01559e3a8dd3",
+      "id": "b670160d9fc0",
       "source": "github",
       "type": "repo",
-      "title": "actionbook/ascent-research — research cli for agent",
-      "summary": "research cli for agent",
-      "url": "https://github.com/actionbook/ascent-research",
-      "author": "actionbook",
-      "date": "2026-04-19T02:39:21+00:00",
-      "traction_score": 38.68,
+      "title": "yzhao062/agent-style — 21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+      "summary": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+      "url": "https://github.com/yzhao062/agent-style",
+      "author": "yzhao062",
+      "date": "2026-04-19T08:12:16+00:00",
+      "traction_score": 41.58,
       "meta": {
-        "stars": 132,
+        "stars": 258,
         "forks": 9,
-        "language": "Rust",
-        "topics": [],
-        "full_name": "actionbook/ascent-research"
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "llm",
+          "prompt-engineering",
+          "style-guide",
+          "technical-writing"
+        ],
+        "full_name": "yzhao062/agent-style"
+      }
+    },
+    {
+      "id": "b531994e0a96",
+      "source": "hackernews",
+      "type": "story",
+      "title": "The great Scouse pasty war",
+      "summary": "",
+      "url": "https://www.livpost.co.uk/the-great-scouse-pasty-war/",
+      "author": "DamonHD",
+      "date": "2026-04-20T06:45:01+00:00",
+      "traction_score": 40.89,
+      "meta": {
+        "hn_id": 47831085,
+        "points": 42,
+        "num_comments": 10,
+        "story_type": "story"
       }
     },
     {
@@ -2907,10 +2203,10 @@
       "url": "https://github.com/londek/ipadecrypt",
       "author": "londek",
       "date": "2026-04-17T22:42:33+00:00",
-      "traction_score": 37.86,
+      "traction_score": 38.81,
       "meta": {
-        "stars": 91,
-        "forks": 13,
+        "stars": 109,
+        "forks": 14,
         "language": "Go",
         "topics": [
           "decryption",
@@ -2922,6 +2218,41 @@
       }
     },
     {
+      "id": "01559e3a8dd3",
+      "source": "github",
+      "type": "repo",
+      "title": "actionbook/ascent-research — research cli for agent",
+      "summary": "research cli for agent",
+      "url": "https://github.com/actionbook/ascent-research",
+      "author": "actionbook",
+      "date": "2026-04-19T02:39:21+00:00",
+      "traction_score": 38.78,
+      "meta": {
+        "stars": 136,
+        "forks": 9,
+        "language": "Rust",
+        "topics": [],
+        "full_name": "actionbook/ascent-research"
+      }
+    },
+    {
+      "id": "760ccb3de49c",
+      "source": "hackernews",
+      "type": "story",
+      "title": "The handmade beauty of Machine Age data visualizations",
+      "summary": "",
+      "url": "https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age",
+      "author": "benbreen",
+      "date": "2026-04-22T14:15:44+00:00",
+      "traction_score": 38.37,
+      "meta": {
+        "hn_id": 47864011,
+        "points": 5,
+        "num_comments": 1,
+        "story_type": "story"
+      }
+    },
+    {
       "id": "869bd13e492f",
       "source": "github",
       "type": "repo",
@@ -2930,31 +2261,13 @@
       "url": "https://github.com/ArcaneNibble/awawausb",
       "author": "ArcaneNibble",
       "date": "2026-04-20T00:16:32+00:00",
-      "traction_score": 37.76,
+      "traction_score": 37.68,
       "meta": {
-        "stars": 264,
+        "stars": 265,
         "forks": 1,
         "language": "Rust",
         "topics": [],
         "full_name": "ArcaneNibble/awawausb"
-      }
-    },
-    {
-      "id": "f13fa027f9e4",
-      "source": "github",
-      "type": "repo",
-      "title": "peiyizhi0724/ChatGpt-Image-Studio — No description",
-      "summary": "",
-      "url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
-      "author": "peiyizhi0724",
-      "date": "2026-04-21T17:52:08+00:00",
-      "traction_score": 37.33,
-      "meta": {
-        "stars": 29,
-        "forks": 10,
-        "language": "Go",
-        "topics": [],
-        "full_name": "peiyizhi0724/ChatGpt-Image-Studio"
       }
     },
     {
@@ -2966,13 +2279,31 @@
       "url": "https://github.com/vmi-rs/ephemera",
       "author": "vmi-rs",
       "date": "2026-04-17T21:16:30+00:00",
-      "traction_score": 36.82,
+      "traction_score": 36.81,
       "meta": {
         "stars": 120,
         "forks": 5,
         "language": "Rust",
         "topics": [],
         "full_name": "vmi-rs/ephemera"
+      }
+    },
+    {
+      "id": "f13fa027f9e4",
+      "source": "github",
+      "type": "repo",
+      "title": "peiyizhi0724/ChatGpt-Image-Studio — No description",
+      "summary": "",
+      "url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
+      "author": "peiyizhi0724",
+      "date": "2026-04-21T17:52:08+00:00",
+      "traction_score": 36.48,
+      "meta": {
+        "stars": 29,
+        "forks": 11,
+        "language": "Go",
+        "topics": [],
+        "full_name": "peiyizhi0724/ChatGpt-Image-Studio"
       }
     },
     {
@@ -2984,7 +2315,7 @@
       "url": "https://github.com/madeye/mcp-cli",
       "author": "madeye",
       "date": "2026-04-19T22:51:10+00:00",
-      "traction_score": 35.99,
+      "traction_score": 35.9,
       "meta": {
         "stars": 101,
         "forks": 4,
@@ -3002,9 +2333,9 @@
       "url": "https://github.com/timhartmann7/omnyssh",
       "author": "timhartmann7",
       "date": "2026-04-19T05:02:19+00:00",
-      "traction_score": 35.7,
+      "traction_score": 35.72,
       "meta": {
-        "stars": 90,
+        "stars": 91,
         "forks": 5,
         "language": "Rust",
         "topics": [
@@ -3018,36 +2349,54 @@
       }
     },
     {
-      "id": "8cb6d298d550",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
+      "id": "f64b36e2eb8f",
+      "source": "github",
+      "type": "repo",
+      "title": "liuzhengdongfortest/MA — No description",
       "summary": "",
-      "url": "https://arxiv.org/abs/2604.15039",
-      "author": "matt_d",
-      "date": "2026-04-19T05:58:16+00:00",
-      "traction_score": 35.16,
+      "url": "https://github.com/liuzhengdongfortest/MA",
+      "author": "liuzhengdongfortest",
+      "date": "2026-04-19T12:53:47+00:00",
+      "traction_score": 35.42,
       "meta": {
-        "hn_id": 47822117,
-        "points": 43,
-        "num_comments": 1,
-        "story_type": "story"
+        "stars": 70,
+        "forks": 7,
+        "language": "Rust",
+        "topics": [],
+        "full_name": "liuzhengdongfortest/MA"
       }
     },
     {
-      "id": "baa06f775522",
+      "id": "3a0bf599ac17",
+      "source": "youtube",
+      "type": "video",
+      "title": "Today's Technology News",
+      "summary": "The latest updated tech News 24 hours a day. 7 days a week. Latest in tech news, DJI insta360 and more !!",
+      "url": "https://www.youtube.com/watch?v=hZvT_HnG6OE",
+      "author": "Blue Collar Guy ",
+      "date": "2026-04-23T01:58:10.663434+00:00",
+      "traction_score": 34.75,
+      "meta": {
+        "video_id": "hZvT_HnG6OE",
+        "thumbnail": "https://i.ytimg.com/vi/hZvT_HnG6OE/mqdefault.jpg",
+        "duration": "",
+        "view_count": 0
+      }
+    },
+    {
+      "id": "c3f576495b58",
       "source": "hackernews",
       "type": "story",
-      "title": "Expansion Artifacts",
+      "title": "A Vompeccc Case Study: Spotify as Pure ICR in Emacs",
       "summary": "",
-      "url": "https://mattstromawn.com/writing/expansion-artifacts/",
-      "author": "tobr",
-      "date": "2026-04-20T18:38:22+00:00",
-      "traction_score": 34.77,
+      "url": "https://www.chiply.dev/post-vompeccc-spot",
+      "author": "chiply",
+      "date": "2026-04-21T13:23:17+00:00",
+      "traction_score": 34.15,
       "meta": {
-        "hn_id": 47838680,
-        "points": 23,
-        "num_comments": 2,
+        "hn_id": 47848470,
+        "points": 11,
+        "num_comments": 3,
         "story_type": "story"
       }
     },
@@ -3060,13 +2409,28 @@
       "url": "https://github.com/TheScienceElf/UNIVAC-1219",
       "author": "TheScienceElf",
       "date": "2026-04-17T04:07:34+00:00",
-      "traction_score": 33.42,
+      "traction_score": 33.54,
       "meta": {
-        "stars": 70,
+        "stars": 72,
         "forks": 3,
         "language": "Rust",
         "topics": [],
         "full_name": "TheScienceElf/UNIVAC-1219"
+      }
+    },
+    {
+      "id": "34a5f44ccf56",
+      "source": "news",
+      "type": "article",
+      "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more",
+      "summary": "OpenAI introduced a new paradigm and product today that is likely to have huge implications for enterprises seeking to adopt and control fleets of AI agent workers. Called \" Workspace Agents ,\" OpenAI's new offering essentially allows users on its ChatGPT Business ($20 per user per month) and variab",
+      "url": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more",
+      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
+      "date": "2026-04-23T01:58:19.036756+00:00",
+      "traction_score": 33.25,
+      "meta": {
+        "feed_title": "VentureBeat",
+        "feed_url": "https://venturebeat.com/feed/"
       }
     },
     {
@@ -3077,7 +2441,7 @@
       "summary": "The era of enterprises stitching together prompt chains and shadow agents is nearing its end as more options for orchestrating complex multi-agent systems emerge. As organizations move AI agents into production, the question remains: \"how will we manage them?\" Google and Amazon Web Services offer fu",
       "url": "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution",
       "author": "VentureBeat",
-      "date": "2026-04-22T21:44:39.828579+00:00",
+      "date": "2026-04-23T01:58:19.036952+00:00",
       "traction_score": 33.25,
       "meta": {
         "feed_title": "VentureBeat",
@@ -3092,7 +2456,7 @@
       "summary": "Enterprise teams building multi-agent AI systems may be paying a compute premium for gains that don't hold up under equal-budget conditions. New Stanford University research finds that single-agent systems match or outperform multi-agent architectures on complex reasoning tasks when both are given t",
       "url": "https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems",
       "author": "bendee983@gmail.com (Ben Dickson)",
-      "date": "2026-04-22T21:44:39.828875+00:00",
+      "date": "2026-04-23T01:58:19.037140+00:00",
       "traction_score": 33.25,
       "meta": {
         "feed_title": "VentureBeat",
@@ -3107,7 +2471,7 @@
       "summary": "In a significant shift toward local-first privacy infrastructure, OpenAI has released Privacy Filter , a specialized open-source model designed to detect and redact personally identifiable information (PII) before it ever reaches a cloud-based server. Launched today on AI code sharing community Hugg",
       "url": "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets",
       "author": "carl.franzen@venturebeat.com (Carl Franzen)",
-      "date": "2026-04-22T21:44:39.829149+00:00",
+      "date": "2026-04-23T01:58:19.037323+00:00",
       "traction_score": 33.25,
       "meta": {
         "feed_title": "VentureBeat",
@@ -3122,7 +2486,7 @@
       "summary": "Every frontier AI lab right now is rationing two things: electricity and compute. Most of them buy their compute for model training from the same supplier, at the steep gross margins that have turned Nvidia into one of the most valuable companies in the world. Google does not. On Tuesday night, insi",
       "url": "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why",
       "author": "sam.witteveen@venturebeat.com (Sam Witteveen)",
-      "date": "2026-04-22T21:44:39.829458+00:00",
+      "date": "2026-04-23T01:58:19.037499+00:00",
       "traction_score": 33.25,
       "meta": {
         "feed_title": "VentureBeat",
@@ -3137,7 +2501,7 @@
       "summary": "When startup fundraising platform VentureCrowd began deploying AI coding agents, they saw the same gains as other enterprises: they cut the front-end development cycle by 90% in some projects. However, it didn’t come easy or without a lot of trial and error. VentureCrowd’s first challenge revolved a",
       "url": "https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents",
       "author": "VentureBeat",
-      "date": "2026-04-22T21:44:39.829649+00:00",
+      "date": "2026-04-23T01:58:19.037641+00:00",
       "traction_score": 33.25,
       "meta": {
         "feed_title": "VentureBeat",
@@ -3152,7 +2516,7 @@
       "summary": "Cirrascale Cloud Services today announced it has expanded its partnership with Google Cloud to deliver the Gemini model on-premises through Google Distributed Cloud , making it the first neocloud provider to offer Google's most advanced AI model as a fully private, disconnected appliance. The announ",
       "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
       "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
-      "date": "2026-04-22T21:44:39.830128+00:00",
+      "date": "2026-04-23T01:58:19.037975+00:00",
       "traction_score": 33.25,
       "meta": {
         "feed_title": "VentureBeat",
@@ -3160,50 +2524,260 @@
       }
     },
     {
-      "id": "6afa9bb5784c",
+      "id": "f433613f19f2",
       "source": "news",
       "type": "article",
-      "title": "The modern data stack was built for humans asking questions. Google just rebuilt its for agents taking action.",
-      "summary": "Enterprise data stacks were built for humans running scheduled queries. As AI agents increasingly act autonomously on behalf of businesses around the clock, that architecture is breaking down — and vendors are racing to rebuild it. Google's answer, announced at Cloud Next on Wednesday, is the Agenti",
-      "url": "https://venturebeat.com/data/the-modern-data-stack-was-built-for-humans-asking-questions-google-just-rebuilt-its-for-agents-taking-action",
-      "author": "VentureBeat",
-      "date": "2026-04-22T21:44:39.830364+00:00",
-      "traction_score": 33.25,
+      "title": "The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated",
+      "summary": "On Wednesday, President Donald Trump claimed to have secured the release of eight Iranian women condemned to execution for protesting the regime. Only the night before, he had posted on Truth Social about the imminent executions of these women, quoting a screenshot that included a collage of eight g",
+      "url": "https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati",
+      "author": "Sarah Jeong",
+      "date": "2026-04-22T21:53:24-04:00",
+      "traction_score": 33.13,
       "meta": {
-        "feed_title": "VentureBeat",
-        "feed_url": "https://venturebeat.com/feed/"
+        "feed_title": "The Verge",
+        "feed_url": "https://www.theverge.com/rss/index.xml"
       }
     },
     {
-      "id": "b531994e0a96",
+      "id": "5b3cba1859be",
       "source": "hackernews",
       "type": "story",
-      "title": "The great Scouse pasty war",
+      "title": "Anonymous credentials: an illustrated primer (Part 2)",
       "summary": "",
-      "url": "https://www.livpost.co.uk/the-great-scouse-pasty-war/",
-      "author": "DamonHD",
-      "date": "2026-04-20T06:45:01+00:00",
-      "traction_score": 33.0,
+      "url": "https://blog.cryptographyengineering.com/2026/04/17/anonymous-credentials-an-illustrated-primer-part-2/",
+      "author": "kkl",
+      "date": "2026-04-20T17:58:13+00:00",
+      "traction_score": 31.8,
       "meta": {
-        "hn_id": 47831085,
-        "points": 24,
+        "hn_id": 47838134,
+        "points": 28,
+        "num_comments": 0,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "6feb1b1d3b60",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Rip language. Compiles to ES2022. Built-in reactivity",
+      "summary": "",
+      "url": "https://github.com/shreeve/rip-lang",
+      "author": "perfunctory",
+      "date": "2026-04-20T14:29:57+00:00",
+      "traction_score": 31.39,
+      "meta": {
+        "hn_id": 47834913,
+        "points": 12,
+        "num_comments": 2,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "ad2ed4e23290",
+      "source": "hackernews",
+      "type": "story",
+      "title": "First per-image PCA decomposition of Kodak suite reveals deliberate curation",
+      "summary": "",
+      "url": "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization",
+      "author": "PearsonZero",
+      "date": "2026-04-20T16:12:50+00:00",
+      "traction_score": 31.16,
+      "meta": {
+        "hn_id": 47836354,
+        "points": 9,
+        "num_comments": 3,
+        "story_type": "story"
+      }
+    },
+    {
+      "id": "507fbb54899d",
+      "source": "github",
+      "type": "repo",
+      "title": "s-zx/crest — An open source, AI-native terminal.",
+      "summary": "An open source, AI-native terminal.",
+      "url": "https://github.com/s-zx/crest",
+      "author": "s-zx",
+      "date": "2026-04-18T10:48:28+00:00",
+      "traction_score": 31.08,
+      "meta": {
+        "stars": 48,
+        "forks": 2,
+        "language": "Go",
+        "topics": [],
+        "full_name": "s-zx/crest"
+      }
+    },
+    {
+      "id": "5d716dda9950",
+      "source": "github",
+      "type": "repo",
+      "title": "samueltuyizere/oc-go-cc — Use your OpenCode Go subscription with Claude Code.",
+      "summary": "Use your OpenCode Go subscription with Claude Code.",
+      "url": "https://github.com/samueltuyizere/oc-go-cc",
+      "author": "samueltuyizere",
+      "date": "2026-04-17T00:55:43+00:00",
+      "traction_score": 30.22,
+      "meta": {
+        "stars": 33,
+        "forks": 3,
+        "language": "Go",
+        "topics": [
+          "claude",
+          "claude-code",
+          "claude-code-cli",
+          "opencode",
+          "opencode-ai"
+        ],
+        "full_name": "samueltuyizere/oc-go-cc"
+      }
+    },
+    {
+      "id": "3c2b342ebae9",
+      "source": "hackernews",
+      "type": "story",
+      "title": "Effectful Recursion Schemes",
+      "summary": "",
+      "url": "https://effekt-lang.org/blog/recursion-schemes/",
+      "author": "marvinborner",
+      "date": "2026-04-20T15:48:19+00:00",
+      "traction_score": 29.77,
+      "meta": {
+        "hn_id": 47836035,
+        "points": 11,
         "num_comments": 1,
         "story_type": "story"
+      }
+    },
+    {
+      "id": "22a1c4994611",
+      "source": "github",
+      "type": "repo",
+      "title": "axiom0x0/bifrost — Bridge files between your computer and and phone via QR code.",
+      "summary": "Bridge files between your computer and and phone via QR code.",
+      "url": "https://github.com/axiom0x0/bifrost",
+      "author": "axiom0x0",
+      "date": "2026-04-19T17:42:26+00:00",
+      "traction_score": 29.76,
+      "meta": {
+        "stars": 28,
+        "forks": 3,
+        "language": "Go",
+        "topics": [],
+        "full_name": "axiom0x0/bifrost"
+      }
+    },
+    {
+      "id": "e82c651e1dbf",
+      "source": "github",
+      "type": "repo",
+      "title": "SamNet-dev/snix — Cross-platform SNI-spoofing DPI-bypass proxy. Single binary, no cgo. Go rewrite of patterniha/SNI-Spoofing.",
+      "summary": "Cross-platform SNI-spoofing DPI-bypass proxy. Single binary, no cgo. Go rewrite of patterniha/SNI-Spoofing.",
+      "url": "https://github.com/SamNet-dev/snix",
+      "author": "SamNet-dev",
+      "date": "2026-04-18T19:25:07+00:00",
+      "traction_score": 29.37,
+      "meta": {
+        "stars": 41,
+        "forks": 1,
+        "language": "Go",
+        "topics": [],
+        "full_name": "SamNet-dev/snix"
+      }
+    },
+    {
+      "id": "4d38290c9f65",
+      "source": "news",
+      "type": "article",
+      "title": "Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD",
+      "summary": "Tesla vehicles with the company's Hardware 3 (HW3) computer actually won't receive unsupervised Full Self-Driving (FSD), CEO Elon Musk said on Wednesday's Q1 2026 earnings call. Approximately 4 million Tesla vehicles operate on the HW3 platform, meaning that a significant chunk of Tesla owners - inc",
+      "url": "https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd",
+      "author": "Jay Peters",
+      "date": "2026-04-22T18:38:31-04:00",
+      "traction_score": 28.88,
+      "meta": {
+        "feed_title": "The Verge",
+        "feed_url": "https://www.theverge.com/rss/index.xml"
+      }
+    },
+    {
+      "id": "d1986ed2b49d",
+      "source": "news",
+      "type": "article",
+      "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+      "summary": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+      "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+      "author": "Maxwell Zeff, Lauren Goode",
+      "date": "2026-04-22T22:11:15+00:00",
+      "traction_score": 28.34,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "267f1e60c403",
+      "source": "news",
+      "type": "article",
+      "title": "Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage",
+      "summary": "Ship attacked by Iran after possibly falling for safe passage crypto scam.",
+      "url": "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/",
+      "author": "Jeremy Hsu",
+      "date": "2026-04-22T22:07:54+00:00",
+      "traction_score": 28.28,
+      "meta": {
+        "feed_title": "Ars Technica",
+        "feed_url": "https://arstechnica.com/feed/"
+      }
+    },
+    {
+      "id": "4709efd07fa6",
+      "source": "news",
+      "type": "article",
+      "title": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
+      "summary": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
+      "url": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
+      "author": "Kate Knibbs",
+      "date": "2026-04-22T21:49:19+00:00",
+      "traction_score": 27.92,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
       }
     },
     {
       "id": "6b07a564d6a5",
       "source": "news",
       "type": "article",
-      "title": "Cocaine-Fueled Wild Salmon Swam Twice as Far as Sober Ones",
-      "summary": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that as in the lab, fish on cocaine do not act like normal fish.",
+      "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
+      "summary": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
       "url": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/",
       "author": "Marta Musso",
       "date": "2026-04-22T21:34:03+00:00",
-      "traction_score": 33.0,
+      "traction_score": 27.64,
       "meta": {
         "feed_title": "WIRED",
         "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "a645686b99dc",
+      "source": "github",
+      "type": "repo",
+      "title": "pomclaw/pomclaw — Enterprise AI Agent Platform: Distributed memory storage + SSH sandbox execution,    serve unlimited agents with minimal cloud infrastructure",
+      "summary": "Enterprise AI Agent Platform: Distributed memory storage + SSH sandbox execution, serve unlimited agents with minimal cloud infrastructure",
+      "url": "https://github.com/pomclaw/pomclaw",
+      "author": "pomclaw",
+      "date": "2026-04-17T13:06:02+00:00",
+      "traction_score": 27.6,
+      "meta": {
+        "stars": 42,
+        "forks": 0,
+        "language": "Go",
+        "topics": [
+          "openclaw",
+          "postgresql"
+        ],
+        "full_name": "pomclaw/pomclaw"
       }
     },
     {
@@ -3215,27 +2789,10 @@
       "url": "https://arstechnica.com/cars/2026/04/tesla-reports-q1-2026-earnings-still-profitable/",
       "author": "Jonathan M. Gitlin",
       "date": "2026-04-22T21:16:05+00:00",
-      "traction_score": 32.57,
+      "traction_score": 27.3,
       "meta": {
         "feed_title": "Ars Technica",
         "feed_url": "https://arstechnica.com/feed/"
-      }
-    },
-    {
-      "id": "c3f576495b58",
-      "source": "hackernews",
-      "type": "story",
-      "title": "A Vompeccc Case Study: Spotify as Pure ICR in Emacs",
-      "summary": "",
-      "url": "https://www.chiply.dev/post-vompeccc-spot",
-      "author": "chiply",
-      "date": "2026-04-21T13:23:17+00:00",
-      "traction_score": 32.46,
-      "meta": {
-        "hn_id": 47848470,
-        "points": 6,
-        "num_comments": 3,
-        "story_type": "story"
       }
     },
     {
@@ -3247,10 +2804,25 @@
       "url": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
       "author": "Emma Roth",
       "date": "2026-04-22T16:49:38-04:00",
-      "traction_score": 31.96,
+      "traction_score": 26.82,
       "meta": {
         "feed_title": "The Verge",
         "feed_url": "https://www.theverge.com/rss/index.xml"
+      }
+    },
+    {
+      "id": "cddcb4b83ca3",
+      "source": "news",
+      "type": "article",
+      "title": "Our newsroom AI policy",
+      "summary": "How Ars Technica uses, and doesn't use, generative AI.",
+      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+      "author": "Ken Fisher",
+      "date": "2026-04-22T20:40:59+00:00",
+      "traction_score": 26.67,
+      "meta": {
+        "feed_title": "Ars Technica",
+        "feed_url": "https://arstechnica.com/feed/"
       }
     },
     {
@@ -3262,7 +2834,7 @@
       "url": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue",
       "author": "Andrew J. Hawkins",
       "date": "2026-04-22T16:36:17-04:00",
-      "traction_score": 31.66,
+      "traction_score": 26.59,
       "meta": {
         "feed_title": "The Verge",
         "feed_url": "https://www.theverge.com/rss/index.xml"
@@ -3277,7 +2849,7 @@
       "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
       "author": "Lauren Feiner",
       "date": "2026-04-22T16:29:05-04:00",
-      "traction_score": 31.5,
+      "traction_score": 26.46,
       "meta": {
         "feed_title": "The Verge",
         "feed_url": "https://www.theverge.com/rss/index.xml"
@@ -3292,7 +2864,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/04/lawsuit-nintendo-is-getting-tariff-refunds-its-customers-should-get-them-instead/",
       "author": "Jon Brodkin",
       "date": "2026-04-22T20:27:24+00:00",
-      "traction_score": 31.46,
+      "traction_score": 26.43,
       "meta": {
         "feed_title": "Ars Technica",
         "feed_url": "https://arstechnica.com/feed/"
@@ -3307,28 +2879,10 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
       "author": "Jay Peters",
       "date": "2026-04-22T16:09:02-04:00",
-      "traction_score": 31.05,
+      "traction_score": 26.11,
       "meta": {
         "feed_title": "The Verge",
         "feed_url": "https://www.theverge.com/rss/index.xml"
-      }
-    },
-    {
-      "id": "507fbb54899d",
-      "source": "github",
-      "type": "repo",
-      "title": "s-zx/crest — An open source, AI-native terminal.",
-      "summary": "An open source, AI-native terminal.",
-      "url": "https://github.com/s-zx/crest",
-      "author": "s-zx",
-      "date": "2026-04-18T10:48:28+00:00",
-      "traction_score": 31.0,
-      "meta": {
-        "stars": 47,
-        "forks": 2,
-        "language": "Go",
-        "topics": [],
-        "full_name": "s-zx/crest"
       }
     },
     {
@@ -3340,7 +2894,7 @@
       "url": "https://arstechnica.com/health/2026/04/rfk-jr-doubles-down-on-vaccine-meddling-as-cdc-junks-scientific-study/",
       "author": "Beth Mole",
       "date": "2026-04-22T20:06:49+00:00",
-      "traction_score": 31.0,
+      "traction_score": 26.07,
       "meta": {
         "feed_title": "Ars Technica",
         "feed_url": "https://arstechnica.com/feed/"
@@ -3355,7 +2909,7 @@
       "url": "https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks",
       "author": "Tina Nguyen",
       "date": "2026-04-22T16:04:45-04:00",
-      "traction_score": 30.96,
+      "traction_score": 26.04,
       "meta": {
         "feed_title": "The Verge",
         "feed_url": "https://www.theverge.com/rss/index.xml"
@@ -3370,7 +2924,7 @@
       "url": "https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/",
       "author": "Eric Berger",
       "date": "2026-04-22T19:42:13+00:00",
-      "traction_score": 30.47,
+      "traction_score": 25.66,
       "meta": {
         "feed_title": "Ars Technica",
         "feed_url": "https://arstechnica.com/feed/"
@@ -3385,51 +2939,10 @@
       "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
       "author": "Dan Goodin",
       "date": "2026-04-22T19:32:56+00:00",
-      "traction_score": 30.27,
+      "traction_score": 25.5,
       "meta": {
         "feed_title": "Ars Technica",
         "feed_url": "https://arstechnica.com/feed/"
-      }
-    },
-    {
-      "id": "5d716dda9950",
-      "source": "github",
-      "type": "repo",
-      "title": "samueltuyizere/oc-go-cc — Use your OpenCode Go subscription with Claude Code.",
-      "summary": "Use your OpenCode Go subscription with Claude Code.",
-      "url": "https://github.com/samueltuyizere/oc-go-cc",
-      "author": "samueltuyizere",
-      "date": "2026-04-17T00:55:43+00:00",
-      "traction_score": 29.96,
-      "meta": {
-        "stars": 31,
-        "forks": 3,
-        "language": "Go",
-        "topics": [
-          "claude",
-          "claude-code",
-          "claude-code-cli",
-          "opencode",
-          "opencode-ai"
-        ],
-        "full_name": "samueltuyizere/oc-go-cc"
-      }
-    },
-    {
-      "id": "5b3cba1859be",
-      "source": "hackernews",
-      "type": "story",
-      "title": "Anonymous credentials: an illustrated primer (Part 2)",
-      "summary": "",
-      "url": "https://blog.cryptographyengineering.com/2026/04/17/anonymous-credentials-an-illustrated-primer-part-2/",
-      "author": "kkl",
-      "date": "2026-04-20T17:58:13+00:00",
-      "traction_score": 29.83,
-      "meta": {
-        "hn_id": 47838134,
-        "points": 17,
-        "num_comments": 0,
-        "story_type": "story"
       }
     },
     {
@@ -3441,28 +2954,10 @@
       "url": "https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit",
       "author": "Stevie Bonifield",
       "date": "2026-04-22T14:49:02-04:00",
-      "traction_score": 29.36,
+      "traction_score": 24.79,
       "meta": {
         "feed_title": "The Verge",
         "feed_url": "https://www.theverge.com/rss/index.xml"
-      }
-    },
-    {
-      "id": "e82c651e1dbf",
-      "source": "github",
-      "type": "repo",
-      "title": "SamNet-dev/snix — Cross-platform SNI-spoofing DPI-bypass proxy. Single binary, no cgo. Go rewrite of patterniha/SNI-Spoofing.",
-      "summary": "Cross-platform SNI-spoofing DPI-bypass proxy. Single binary, no cgo. Go rewrite of patterniha/SNI-Spoofing.",
-      "url": "https://github.com/SamNet-dev/snix",
-      "author": "SamNet-dev",
-      "date": "2026-04-18T19:25:07+00:00",
-      "traction_score": 29.29,
-      "meta": {
-        "stars": 40,
-        "forks": 1,
-        "language": "Go",
-        "topics": [],
-        "full_name": "SamNet-dev/snix"
       }
     },
     {
@@ -3474,10 +2969,460 @@
       "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
       "author": "Samuel Axon",
       "date": "2026-04-22T18:34:16+00:00",
-      "traction_score": 29.06,
+      "traction_score": 24.56,
       "meta": {
         "feed_title": "Ars Technica",
         "feed_url": "https://arstechnica.com/feed/"
+      }
+    },
+    {
+      "id": "eb0886b14e4d",
+      "source": "news",
+      "type": "article",
+      "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+      "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+      "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+      "author": "Will Knight",
+      "date": "2026-04-22T18:00:00+00:00",
+      "traction_score": 24.03,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "40d52aeffa46",
+      "source": "news",
+      "type": "article",
+      "title": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day",
+      "summary": "Coffee is what gets many of us through the workday, and a proper smart mug can keep it hot for hours so you can maintain your focus without constantly getting up to reheat your cup. Thankfully, if you don’t own one, the 14-ounce Ember Mug 2 is now available for $97.49 ($52 off) from Amazon, […]",
+      "url": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
+      "author": "Sheena Vasani",
+      "date": "2026-04-22T13:58:23-04:00",
+      "traction_score": 24.0,
+      "meta": {
+        "feed_title": "The Verge",
+        "feed_url": "https://www.theverge.com/rss/index.xml"
+      }
+    },
+    {
+      "id": "a1568959c11c",
+      "source": "news",
+      "type": "article",
+      "title": "Coyote vs. Acme is finally getting released—with a killer trailer",
+      "summary": "What was Warner Bros. even thinking, shelving this film for so many years?",
+      "url": "https://arstechnica.com/culture/2026/04/coyote-vs-acme-is-finally-getting-released-with-a-killer-trailer/",
+      "author": "Jennifer Ouellette",
+      "date": "2026-04-22T17:55:09+00:00",
+      "traction_score": 23.95,
+      "meta": {
+        "feed_title": "Ars Technica",
+        "feed_url": "https://arstechnica.com/feed/"
+      }
+    },
+    {
+      "id": "0f9ee788ebe7",
+      "source": "news",
+      "type": "article",
+      "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+      "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human player",
+      "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+      "author": "Andrew Liszewski",
+      "date": "2026-04-22T13:43:38-04:00",
+      "traction_score": 23.78,
+      "meta": {
+        "feed_title": "The Verge",
+        "feed_url": "https://www.theverge.com/rss/index.xml"
+      }
+    },
+    {
+      "id": "fa7ab03dc8cd",
+      "source": "news",
+      "type": "article",
+      "title": "Google unveils two new TPUs designed for the \"agentic era\"",
+      "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
+      "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
+      "author": "Ryan Whitwam",
+      "date": "2026-04-22T17:10:32+00:00",
+      "traction_score": 23.29,
+      "meta": {
+        "feed_title": "Ars Technica",
+        "feed_url": "https://arstechnica.com/feed/"
+      }
+    },
+    {
+      "id": "9ea6f8356eca",
+      "source": "news",
+      "type": "article",
+      "title": "Tabloid reports linking 10 missing and dead scientists spur FBI probe",
+      "summary": "FBI suspects foreign spies may be targeting scientists with access to government secrets.",
+      "url": "https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/",
+      "author": "Ashley Belanger",
+      "date": "2026-04-22T16:46:31+00:00",
+      "traction_score": 22.95,
+      "meta": {
+        "feed_title": "Ars Technica",
+        "feed_url": "https://arstechnica.com/feed/"
+      }
+    },
+    {
+      "id": "ba48b52e5785",
+      "source": "news",
+      "type": "article",
+      "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+      "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
+      "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+      "author": "Andy Greenberg, Matt Burgess",
+      "date": "2026-04-22T16:00:00+00:00",
+      "traction_score": 22.31,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "378c73b75635",
+      "source": "news",
+      "type": "article",
+      "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
+      "summary": "A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.",
+      "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
+      "author": "Kate Knibbs",
+      "date": "2026-04-22T16:00:00+00:00",
+      "traction_score": 22.31,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "0e13e7afb506",
+      "source": "news",
+      "type": "article",
+      "title": "Physicists think they've solved the muon mystery",
+      "summary": "Results dash hopes for a fifth force but provide very precise proof of Standard Model and QFT.",
+      "url": "https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/",
+      "author": "Jennifer Ouellette",
+      "date": "2026-04-22T15:40:02+00:00",
+      "traction_score": 22.04,
+      "meta": {
+        "feed_title": "Ars Technica",
+        "feed_url": "https://arstechnica.com/feed/"
+      }
+    },
+    {
+      "id": "e354984330b6",
+      "source": "news",
+      "type": "article",
+      "title": "New court ruling blocks many of the government's anti-renewable policies",
+      "summary": "Added layers of review singling out renewable energy have little legal basis.",
+      "url": "https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/",
+      "author": "John Timmer",
+      "date": "2026-04-22T15:09:28+00:00",
+      "traction_score": 21.64,
+      "meta": {
+        "feed_title": "Ars Technica",
+        "feed_url": "https://arstechnica.com/feed/"
+      }
+    },
+    {
+      "id": "80621cf64a53",
+      "source": "news",
+      "type": "article",
+      "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+      "summary": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+      "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/",
+      "author": "Vittoria Elliott",
+      "date": "2026-04-22T15:00:00+00:00",
+      "traction_score": 21.52,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "8784c3468353",
+      "source": "news",
+      "type": "article",
+      "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
+      "summary": "\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes.",
+      "url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
+      "author": "Ej Dickson, wired.com",
+      "date": "2026-04-22T14:13:01+00:00",
+      "traction_score": 20.93,
+      "meta": {
+        "feed_title": "Ars Technica",
+        "feed_url": "https://arstechnica.com/feed/"
+      }
+    },
+    {
+      "id": "73229a0540de",
+      "source": "news",
+      "type": "article",
+      "title": "As EV batteries improve, ChargePoint debuts 600 kW fast charger",
+      "summary": "The new design is cheaper and will even fit in convenience store parking lots.",
+      "url": "https://arstechnica.com/cars/2026/04/as-ev-batteries-improve-chargepoint-debuts-600-kw-fast-charger/",
+      "author": "Jonathan M. Gitlin",
+      "date": "2026-04-22T13:49:09+00:00",
+      "traction_score": 20.64,
+      "meta": {
+        "feed_title": "Ars Technica",
+        "feed_url": "https://arstechnica.com/feed/"
+      }
+    },
+    {
+      "id": "93e3b785b0fa",
+      "source": "news",
+      "type": "article",
+      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnin",
+      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+      "author": "Thomas Macaulay",
+      "date": "2026-04-22T12:10:00+00:00",
+      "traction_score": 19.51,
+      "meta": {
+        "feed_title": "MIT Technology Review",
+        "feed_url": "https://www.technologyreview.com/feed/"
+      }
+    },
+    {
+      "id": "e8b7e5f920c5",
+      "source": "news",
+      "type": "article",
+      "title": "Best Chromebooks (2026): Most Are Bad, but These Aren't",
+      "summary": "Chromebooks have a reputation for being cheap and crappy. But they don't have to be, and these are the Chromebooks that prove it.",
+      "url": "https://www.wired.com/story/best-chromebooks/",
+      "author": "Luke Larsen",
+      "date": "2026-04-22T11:30:00+00:00",
+      "traction_score": 19.09,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "0848e55b54e1",
+      "source": "news",
+      "type": "article",
+      "title": "Dinnerly Meal Kit Review (2026): Hearty Meals on a Budget",
+      "summary": "Martha Stewart–endorsed Dinnerly is a budget meal kit that doesn’t feel budget anymore, with interesting, far-flung flavors. Just add a little rice.",
+      "url": "https://www.wired.com/review/dinnerly-meal-kit-2026/",
+      "author": "Matthew Korfhage",
+      "date": "2026-04-22T11:07:00+00:00",
+      "traction_score": 18.85,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "3bc3220b7efc",
+      "source": "news",
+      "type": "article",
+      "title": "The Best Apps to Help You Cancel Subscriptions (2026): Trim, Bobby, TrackMySubs, Hiatus",
+      "summary": "You may have several recurring subscriptions you've forgotten about. These apps help you keep track of them—and cancel the ones you don't need.",
+      "url": "https://www.wired.com/story/apps-cancel-subscriptions-save-money/",
+      "author": "David Nield",
+      "date": "2026-04-22T11:00:00+00:00",
+      "traction_score": 18.78,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "4e44c7f099ba",
+      "source": "news",
+      "type": "article",
+      "title": "Beatbot Sora 30 Review: Midrange Price, High-End Results",
+      "summary": "Strong coverage and a long run time make this pool-cleaning robot a compelling alternative to pricier models.",
+      "url": "https://www.wired.com/review/beatbot-sora-30/",
+      "author": "Christopher Null",
+      "date": "2026-04-22T10:33:00+00:00",
+      "traction_score": 18.51,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "9c508c5be8b4",
+      "source": "news",
+      "type": "article",
+      "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+      "summary": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+      "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
+      "author": "Molly Taft",
+      "date": "2026-04-22T10:30:00+00:00",
+      "traction_score": 18.48,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "66faaa9bc555",
+      "source": "news",
+      "type": "article",
+      "title": "AI needs a strong data fabric to deliver business value",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "author": "MIT Technology Review Insights",
+      "date": "2026-04-22T10:05:06+00:00",
+      "traction_score": 18.24,
+      "meta": {
+        "feed_title": "MIT Technology Review",
+        "feed_url": "https://www.technologyreview.com/feed/"
+      }
+    },
+    {
+      "id": "86dc16cb4f6c",
+      "source": "news",
+      "type": "article",
+      "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+      "summary": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
+      "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+      "author": "Zoë Schiffer, Paresh Dave, Maxwell Zeff",
+      "date": "2026-04-22T10:00:00+00:00",
+      "traction_score": 18.19,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "c6286e7f59f3",
+      "source": "news",
+      "type": "article",
+      "title": "Infinite Machine Olto Review: A Tremendously Fun Ride",
+      "summary": "The ebike that doesn’t look like any other ebike is a tremendously fun ride—even for two passengers—if you don’t mind the Cybertruckian design.",
+      "url": "https://www.wired.com/review/infinite-machine-olto/",
+      "author": "Julian Chokkattu",
+      "date": "2026-04-22T10:00:00+00:00",
+      "traction_score": 18.19,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "84a308878c28",
+      "source": "news",
+      "type": "article",
+      "title": "3 things Michelle Kim is into right now",
+      "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegy",
+      "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+      "author": "Michelle Kim",
+      "date": "2026-04-22T10:00:00+00:00",
+      "traction_score": 18.19,
+      "meta": {
+        "feed_title": "MIT Technology Review",
+        "feed_url": "https://www.technologyreview.com/feed/"
+      }
+    },
+    {
+      "id": "93a528358c09",
+      "source": "news",
+      "type": "article",
+      "title": "One town’s scheme to get rid of its geese",
+      "summary": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part",
+      "url": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
+      "author": "Annika Hom",
+      "date": "2026-04-22T10:00:00+00:00",
+      "traction_score": 18.19,
+      "meta": {
+        "feed_title": "MIT Technology Review",
+        "feed_url": "https://www.technologyreview.com/feed/"
+      }
+    },
+    {
+      "id": "867be530016e",
+      "source": "news",
+      "type": "article",
+      "title": "There is no nature anymore",
+      "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scien",
+      "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+      "author": "Mat Honan",
+      "date": "2026-04-22T10:00:00+00:00",
+      "traction_score": 18.19,
+      "meta": {
+        "feed_title": "MIT Technology Review",
+        "feed_url": "https://www.technologyreview.com/feed/"
+      }
+    },
+    {
+      "id": "f141886347a0",
+      "source": "news",
+      "type": "article",
+      "title": "Los Angeles is finally going underground",
+      "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolley",
+      "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+      "author": "Adam Rogers",
+      "date": "2026-04-22T10:00:00+00:00",
+      "traction_score": 18.19,
+      "meta": {
+        "feed_title": "MIT Technology Review",
+        "feed_url": "https://www.technologyreview.com/feed/"
+      }
+    },
+    {
+      "id": "dda65f22bbbb",
+      "source": "news",
+      "type": "article",
+      "title": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+      "summary": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+      "url": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
+      "author": "Miles Klee",
+      "date": "2026-04-22T09:30:00+00:00",
+      "traction_score": 17.91,
+      "meta": {
+        "feed_title": "WIRED",
+        "feed_url": "https://www.wired.com/feed/rss"
+      }
+    },
+    {
+      "id": "ca1ef292b181",
+      "source": "news",
+      "type": "article",
+      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+      "summary": "Listen to the session or watch below Subscribers saw a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and p",
+      "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+      "author": "MIT Technology Review",
+      "date": "2026-04-21T22:09:25+00:00",
+      "traction_score": 13.27,
+      "meta": {
+        "feed_title": "MIT Technology Review",
+        "feed_url": "https://www.technologyreview.com/feed/"
+      }
+    },
+    {
+      "id": "cb9134973406",
+      "source": "news",
+      "type": "article",
+      "title": "The new word in home construction could be “plastics”",
+      "summary": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engi",
+      "url": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
+      "author": "Jennifer Chu",
+      "date": "2026-04-21T21:00:00+00:00",
+      "traction_score": 12.94,
+      "meta": {
+        "feed_title": "MIT Technology Review",
+        "feed_url": "https://www.technologyreview.com/feed/"
+      }
+    },
+    {
+      "id": "a9d5b2f5d7b5",
+      "source": "news",
+      "type": "article",
+      "title": "A natural protein may protect the GI tract from infection",
+      "summary": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bac",
+      "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+      "author": "Anne Trafton",
+      "date": "2026-04-21T21:00:00+00:00",
+      "traction_score": 12.94,
+      "meta": {
+        "feed_title": "MIT Technology Review",
+        "feed_url": "https://www.technologyreview.com/feed/"
       }
     }
   ]
